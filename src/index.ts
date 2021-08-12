@@ -11,12 +11,6 @@ dotenv.config();
 const PORT = process.env.PORT || 3000;
 const app: Express = express();
 
-
-
-(async() => {
-  await sequelize.authenticate();
-})();
-
 app.use("/", eventsRouter)
 
 app.use(helmet());

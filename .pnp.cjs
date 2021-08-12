@@ -36,6 +36,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@notionhq/client", "npm:0.2.4"],
+            ["@types/axios", "npm:0.14.0"],
             ["@types/body-parser", "npm:1.19.1"],
             ["@types/express", "npm:4.17.13"],
             ["@types/ical", "npm:0.8.0"],
@@ -137,6 +138,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@tootallnate-once-npm-1.1.2-0517220057-e1fb1bbbc1.zip/node_modules/@tootallnate/once/",
           "packageDependencies": [
             ["@tootallnate/once", "npm:1.1.2"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["@types/axios", [
+        ["npm:0.14.0", {
+          "packageLocation": "./.yarn/cache/@types-axios-npm-0.14.0-42f41917ea-12a230b940.zip/node_modules/@types/axios/",
+          "packageDependencies": [
+            ["@types/axios", "npm:0.14.0"],
+            ["axios", "npm:0.21.1"]
           ],
           "linkType": "HARD",
         }]
@@ -2874,6 +2885,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["notion-ical-integration", "workspace:."],
             ["@notionhq/client", "npm:0.2.4"],
+            ["@types/axios", "npm:0.14.0"],
             ["@types/body-parser", "npm:1.19.1"],
             ["@types/express", "npm:4.17.13"],
             ["@types/ical", "npm:0.8.0"],

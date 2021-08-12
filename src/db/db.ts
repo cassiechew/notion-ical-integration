@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { Sequelize } from 'sequelize';
 const basename = path.basename(__filename);
+import EventsModel from './events';
 
 const db : ndb.idb = {
   sequelize: null,
@@ -25,13 +26,19 @@ fs
     db[model.name] = model;
   });
 
-Object.keys(db).forEach(modelName => {
-  if (db[modelName].associate) {
-    db[modelName].associate(db);
-  }
-});
+// Object.keys(db).forEach(modelName => {
+//   if (db[modelName].hasOwnProperty('associate')) {
+//     db[modelName].associate(db);
+//   }
+// });
 
 db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 
-module.exports = db;
+// Sync all models that are not
+// already in the database
+sequelize.sync() 
+
+EventsModel(sequelize);
+
+export default db;
