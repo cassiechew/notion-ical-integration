@@ -1,0 +1,3670 @@
+curl -H "Notion-Version: 2021-07-27" -H "Authorization: Bearer secret_lmAZcq7nQQKMgLZ44ljts1qMxwARUWn3gF2VEZWe7S0" "https://api.notion.com/v1/pages/20fdacbb20d44e26a3c85c00cac68b7e" 
+
+curl 'https://api.notion.com/v1/pages/b55c9c91-384d-452b-81db-d1ef79372b75' \
+  -H 'Notion-Version: 2021-07-27' \
+  -H 'Authorization: Bearer '"$NOTION_API_KEY"''
+
+{
+    "000-ybgy2l@superpeer.com": {
+        "type": "VEVENT",
+        "params": [],
+        "description": "Superpeer call with Lindie Botes\n\n\nUse the link to join your call https://superpeer.com/u/127-502-346",
+        "end": "2021-08-13T12:30:00.000Z",
+        "dtstamp": "2021-08-11T15:36:27.000Z",
+        "start": "2021-08-13T12:00:00.000Z",
+        "lastmodified": "2021-08-11T15:36:23.000Z",
+        "organizer": {
+            "params": {
+                "CN": "Team Superpeer",
+                "EMAIL": "hello@superpeer.com"
+            },
+            "val": "mailto:hello@superpeer.com"
+        },
+        "sequence": "0",
+        "summary": "🤙 Cassie/Ryan Chew // Lindie Botes",
+        "uid": "000-ybgy2l@superpeer.com"
+    },
+    "04B4FCE9-A73E-4AE6-8AA5-838DDA6F3049": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-05-28T15:20:03.000Z",
+        "end": "2021-05-29T22:30:00.000Z",
+        "dtstamp": "2021-05-28T15:20:06.000Z",
+        "start": "2021-05-29T21:30:00.000Z",
+        "lastmodified": "2021-05-28T15:20:03.000Z",
+        "sequence": "0",
+        "summary": "Better help phone appointment",
+        "uid": "04B4FCE9-A73E-4AE6-8AA5-838DDA6F3049",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "05D0D881-B930-440A-A7B5-2187C49BDB28": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-11T02:02:07.000Z",
+        "end": "2021-05-11T05:15:00.000Z",
+        "dtstamp": "2021-05-19T05:14:18.000Z",
+        "start": "2021-05-11T04:15:00.000Z",
+        "lastmodified": "2021-05-19T05:14:18.000Z",
+        "location": "24 Collins Street\nMelbourne, VIC, Australia",
+        "sequence": "1",
+        "summary": "Dermatologist Appt",
+        "uid": "05D0D881-B930-440A-A7B5-2187C49BDB28",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Melbourne, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESiwII2TIaEgkgaGA/H+hCwBEc+AeAIB9iQCKAAQoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQyoJTWVsYm91cm5lMglNZWxib3VybmU6BDMwMDBCDU1lbGJvdXJuZSBDQkRSDkNvbGxpbnMgU3RyZWV0WgIyNGIRMjQgQ29sbGlucyBTdHJlZXSKAQ1NZWxib3VybmUgQ0JEKhEyNCBDb2xsaW5zIFN0cmVldDIRMjQgQ29sbGlucyBTdHJlZXQyEk1lbGJvdXJuZSBWSUMgMzAwMDIJQXVzdHJhbGlhODlAAFomCiQSEgkgaGA/H+hCwBEc+AeAIB9iQBjZMiDe3auj0orH3m2QAwE=",
+                "X-APPLE-RADIUS": 70.58710134621644,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "24 Collins Street"
+            },
+            "val": "geo:-37.813454,144.972717"
+        }
+    },
+    "06F65E6B-EEDC-4D92-855C-30391B82E158": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-05-20T08:59:35.000Z",
+        "end": "2021-05-23T04:30:00.000Z",
+        "dtstamp": "2021-05-20T10:44:53.000Z",
+        "start": "2021-05-23T03:30:00.000Z",
+        "lastmodified": "2021-05-20T08:59:35.000Z",
+        "sequence": "0",
+        "summary": "Lunch with Ujjwal",
+        "uid": "06F65E6B-EEDC-4D92-855C-30391B82E158",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "08BAB2BC-6B18-48BB-A507-AEB76E0BC52E": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-09-19T10:01:11.000Z",
+        "uid": "08BAB2BC-6B18-48BB-A507-AEB76E0BC52E",
+        "end": "2019-10-14T13:00:00.000Z",
+        "summary": "Get loan back from Sam $50",
+        "lastmodified": "2019-09-19T10:01:27.000Z",
+        "dtstamp": "2019-10-13T07:03:34.000Z",
+        "start": "2019-10-13T13:00:00.000Z",
+        "sequence": "0",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "094A0EAE-C6B8-4C5B-B7AE-65AB98F524F4": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-06-13T09:29:06.000Z",
+        "end": "2021-06-14T03:30:00.000Z",
+        "dtstamp": "2021-06-13T09:29:06.000Z",
+        "start": "2021-06-14T02:30:00.000Z",
+        "lastmodified": "2021-06-13T09:29:06.000Z",
+        "location": "Ayam Chef\n67 Coventry Street, Southbank VIC 3006, Australia",
+        "sequence": "0",
+        "summary": "Lunch with Ujjwal",
+        "uid": "094A0EAE-C6B8-4C5B-B7AE-65AB98F524F4",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"67 Coventry Street, Southbank VIC 3006, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESkQIIrk0Qpra60L/8q9DFARoSCRPuOsA46kLAETAe75/4HmJAImMKCUF1c3RyYWxpYRICQVUaCFZpY3RvcmlhIgNWSUMqCU1lbGJvdXJuZTIJU291dGhiYW5rOgQzMDA2Ug9Db3ZlbnRyeSBTdHJlZXRaAjY3YhI2NyBDb3ZlbnRyeSBTdHJlZXQqCUF5YW0gQ2hlZjISNjcgQ292ZW50cnkgU3RyZWV0MhJTb3V0aGJhbmsgVklDIDMwMDYyCUF1c3RyYWxpYTgvWkgKJQimtrrQv/yr0MUBEhIJE+46wDjqQsARMB7vn/geYkAYrk2QAwGiHx4Ipra60L/8q9DFARoRCglBeWFtIENoZWYQACoCZW4=",
+                "X-APPLE-RADIUS": 141.1739877177241,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Ayam Chef"
+            },
+            "val": "geo:-37.829857,144.967850"
+        }
+    },
+    "099D56D4-1FBC-4129-9BE6-E078EB351883": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-13T13:58:30.000Z",
+        "end": "2018-09-15T07:30:00.000Z",
+        "dtstamp": "2018-09-13T13:59:24.000Z",
+        "start": "2018-09-15T05:30:00.000Z",
+        "lastmodified": "2018-09-13T13:59:23.000Z",
+        "sequence": "0",
+        "summary": "Crazy rich Asians",
+        "uid": "099D56D4-1FBC-4129-9BE6-E078EB351883",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "0AA2BBE6-EB56-439F-8136-92A23D6E6C21": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2020-10-23T15:28:00.000Z",
+        "end": "2020-10-25T02:00:00.000Z",
+        "dtstamp": "2020-10-23T15:28:01.000Z",
+        "start": "2020-10-25T01:00:00.000Z",
+        "lastmodified": "2020-10-23T15:28:00.000Z",
+        "location": "O'Brien Group Arena\n105 Pearl River Road, Docklands VIC 3008, Australia",
+        "sequence": "0",
+        "summary": "Meet Richard",
+        "uid": "0AA2BBE6-EB56-439F-8136-92A23D6E6C21",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"105 Pearl River Road, Docklands VIC 3008, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAEShgIIrk0Q4u6l3KuJiubRARoSCRzmVhP050LAEQAAAN/wHWJAInMKCUF1c3RyYWxpYRICQVUaCFZpY3RvcmlhIgNWSUMyCURvY2tsYW5kczoEMzAwOEIJTWVsYm91cm5lUhBQZWFybCBSaXZlciBSb2FkWgMxMDViFDEwNSBQZWFybCBSaXZlciBSb2FkigEJTWVsYm91cm5lKhBPJ0JyaWVuIEljZWhvdXNlMhQxMDUgUGVhcmwgUml2ZXIgUm9hZDISRG9ja2xhbmRzIFZJQyAzMDA4MglBdXN0cmFsaWE4L1okCiII4u6l3KuJiubRARISCRzmVhP050LAEQAAAN/wHWJAGK5N",
+                "X-APPLE-RADIUS": 141.1739879939835,
+                "X-TITLE": "O'Brien Group Arena"
+            },
+            "val": "geo:-37.812136,144.935653"
+        }
+    },
+    "0B0C08E0-C71C-47F2-969C-EFDF38E20FE8": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-11T04:17:54.000Z",
+        "end": "2018-09-18T10:00:00.000Z",
+        "dtstamp": "2018-09-11T04:18:01.000Z",
+        "start": "2018-09-18T09:00:00.000Z",
+        "lastmodified": "2018-09-11T04:17:54.000Z",
+        "sequence": "0",
+        "summary": "Russian dinner with Richard",
+        "uid": "0B0C08E0-C71C-47F2-969C-EFDF38E20FE8",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "0C49E7D2-69A6-468A-B98F-3A46692FC1DB": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-13T10:03:33.000Z",
+        "end": "2019-11-16T11:00:00.000Z",
+        "dtstamp": "2019-11-13T10:03:34.000Z",
+        "start": "2019-11-16T07:00:00.000Z",
+        "lastmodified": "2019-11-13T10:03:33.000Z",
+        "location": "16 Millicent Street\nRosanna, VIC, Australia",
+        "sequence": "0",
+        "summary": "Dnd",
+        "uid": "0C49E7D2-69A6-468A-B98F-3A46692FC1DB",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Rosanna, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES7QEI2TIaEgkYRP9f0N5CwBFqs/ufTSJiQCJjCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB1Jvc2FubmE6BDMwODRSEE1pbGxpY2VudCBTdHJlZXRaAjE2YhMxNiBNaWxsaWNlbnQgU3RyZWV0KhMxNiBNaWxsaWNlbnQgU3RyZWV0MhMxNiBNaWxsaWNlbnQgU3RyZWV0MhBSb3Nhbm5hIFZJQyAzMDg0MglBdXN0cmFsaWE4OUAAWiQKIhISCRhE/1/Q3kLAEWqz+59NImJAGNkyIJSdssn//cWWnAE=",
+                "X-APPLE-RADIUS": 70.5871016259103,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "16 Millicent Street"
+            },
+            "val": "geo:-37.740734,145.071976"
+        }
+    },
+    "0E0DFCD7-0317-4361-9933-904755792D0C": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-09-17T16:04:05.000Z",
+        "end": "2016-09-17T17:00:00.000Z",
+        "dtstamp": "2016-09-17T16:04:05.000Z",
+        "start": "2016-09-17T16:00:00.000Z",
+        "lastmodified": "2016-09-17T16:04:05.000Z",
+        "sequence": "0",
+        "summary": "Ta östro",
+        "uid": "0E0DFCD7-0317-4361-9933-904755792D0C"
+    },
+    "0E9E671B-96B1-47FA-A779-19E1ED9342FB": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-03-05T16:38:11.000Z",
+        "uid": "0E9E671B-96B1-47FA-A779-19E1ED9342FB",
+        "end": "2016-03-07T01:15:00.000Z",
+        "summary": "Awaken",
+        "start": "2016-03-07T00:15:00.000Z",
+        "dtstamp": "2016-03-05T16:38:11.000Z",
+        "sequence": "0"
+    },
+    "11AF38E4-53CF-4CCE-94DD-CC68929B5A83": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-03-16T08:32:12.000Z",
+        "end": "2016-03-18T02:00:00.000Z",
+        "dtstamp": "2016-03-18T00:00:07.000Z",
+        "start": "2016-03-18T01:00:00.000Z",
+        "lastmodified": "2016-03-18T00:00:04.000Z",
+        "location": "234 Queensberry Street",
+        "sequence": "0",
+        "summary": "Rakuten",
+        "uid": "11AF38E4-53CF-4CCE-94DD-CC68929B5A83"
+    },
+    "12C5C57C-9D25-41D1-9139-C31EC0EBDB4D": {
+        "type": "VEVENT",
+        "params": [],
+        "conference": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "tel://0431767708"
+        },
+        "created": "2021-06-10T11:31:03.000Z",
+        "description": "0431767708",
+        "end": "2021-06-11T08:30:00.000Z",
+        "dtstamp": "2021-06-10T11:31:05.000Z",
+        "start": "2021-06-11T07:30:00.000Z",
+        "lastmodified": "2021-06-10T11:31:03.000Z",
+        "location": "Lash House\n207T/26 Watertank Way, Melbourne VIC 3000, Australia",
+        "sequence": "0",
+        "summary": "Lashes",
+        "uid": "12C5C57C-9D25-41D1-9139-C31EC0EBDB4D",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=21848265-64F8-4614-A4C4-CF65777016B2"
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"207T/26 Watertank Way, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESwgIIrk0QoI2UiYaxxr3EARoSCZsLM1BK6ELAEQAAgIR/HmJAIo4BCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINV2F0ZXJ0YW5rIFdheVoCMjZiFTIwN1QvMjYgV2F0ZXJ0YW5rIFdheYoBDU1lbGJvdXJuZSBDQkSaAQgIABIEMjA3VCoKTGFzaCBIb3VzZTIVMjA3VC8yNiBXYXRlcnRhbmsgV2F5MhJNZWxib3VybmUgVklDIDMwMDAyCUF1c3RyYWxpYTgvWkkKJQigjZSJhrHGvcQBEhIJmwszUEroQsARAACAhH8eYkAYrk2QAwGiHx8IoI2UiYaxxr3EARoSCgpMYXNoIEhvdXNlEAAqAmVu",
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Lash House"
+            },
+            "val": "geo:-37.814768,144.953066"
+        }
+    },
+    "1401A93B-3F41-433F-8610-176217C8EAEA": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-03-05T16:37:26.000Z",
+        "uid": "1401A93B-3F41-433F-8610-176217C8EAEA",
+        "end": "2016-03-06T01:15:00.000Z",
+        "summary": "Awaken",
+        "start": "2016-03-06T00:15:00.000Z",
+        "dtstamp": "2016-03-05T16:37:39.000Z",
+        "sequence": "0"
+    },
+    "164962F6-1FF4-4811-B638-D0AD787B9B10": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-03-05T16:30:01.000Z",
+        "uid": "164962F6-1FF4-4811-B638-D0AD787B9B10",
+        "end": "2016-03-08T08:00:00.000Z",
+        "summary": "Meet Carris for dinner",
+        "start": "2016-03-08T06:30:00.000Z",
+        "dtstamp": "2016-03-05T16:35:18.000Z",
+        "sequence": "0"
+    },
+    "191EE93B-F06C-4038-BDD7-51E5E6BDD85D": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2020-10-29T23:22:43.000Z",
+        "end": "2020-10-31T23:00:00.000Z",
+        "dtstamp": "2020-10-29T23:22:57.000Z",
+        "start": "2020-10-31T22:00:00.000Z",
+        "lastmodified": "2020-10-29T23:22:57.000Z",
+        "sequence": "0",
+        "summary": "Meet Hugo",
+        "uid": "191EE93B-F06C-4038-BDD7-51E5E6BDD85D",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "1B638FE6-190C-40BC-AAA6-E3FA109B4500": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-25T05:27:18.000Z",
+        "end": "2021-04-13T10:00:00.000Z",
+        "dtstamp": "2021-03-25T05:31:01.000Z",
+        "start": "2021-04-13T09:00:00.000Z",
+        "lastmodified": "2021-03-25T05:31:00.000Z",
+        "location": "Lash House\n207T/26 Watertank Way, Melbourne VIC 3000, Australia",
+        "sequence": "1",
+        "summary": "Get lashes done",
+        "uid": "1B638FE6-190C-40BC-AAA6-E3FA109B4500",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"207T/26 Watertank Way, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESwgIIrk0QoI2UiYaxxr3EARoSCZsLM1BK6ELAEQAAgIR/HmJAIo4BCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINV2F0ZXJ0YW5rIFdheVoCMjZiFTIwN1QvMjYgV2F0ZXJ0YW5rIFdheYoBDU1lbGJvdXJuZSBDQkSaAQgIABIEMjA3VCoKTGFzaCBIb3VzZTIVMjA3VC8yNiBXYXRlcnRhbmsgV2F5MhJNZWxib3VybmUgVklDIDMwMDAyCUF1c3RyYWxpYTgvWkkKJQigjZSJhrHGvcQBEhIJmwszUEroQsARAACAhH8eYkAYrk2QAwGiHx8IoI2UiYaxxr3EARoSCgpMYXNoIEhvdXNlEAAqAmVu",
+                "X-APPLE-RADIUS": 141.1739879500118,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "Lash House"
+            },
+            "val": "geo:-37.814768,144.953066"
+        }
+    },
+    "1E4874BB-BCC0-4712-8FB5-65CB5A7BBA91": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-27T04:15:30.000Z",
+        "end": "2021-03-03T08:00:00.000Z",
+        "dtstamp": "2021-02-27T04:15:31.000Z",
+        "start": "2021-03-03T07:00:00.000Z",
+        "lastmodified": "2021-02-27T04:15:30.000Z",
+        "location": "The Pole Room",
+        "sequence": "0",
+        "summary": "Pole Dancing",
+        "uid": "1E4874BB-BCC0-4712-8FB5-65CB5A7BBA91"
+    },
+    "20D1A43E-27D6-4FB2-B9DA-773E7448606E": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-07-06T08:08:56.000Z",
+        "end": "2021-07-13T03:30:00.000Z",
+        "dtstamp": "2021-07-06T08:08:57.000Z",
+        "start": "2021-07-13T02:30:00.000Z",
+        "lastmodified": "2021-07-06T08:08:56.000Z",
+        "location": "Vocational Language Learning Centre - VLLC\n520 Bourke Street, Melbourne VIC 3000, Australia",
+        "sequence": "0",
+        "summary": "Russian class",
+        "uid": "20D1A43E-27D6-4FB2-B9DA-773E7448606E",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"520 Bourke Street, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AIIrk0QlPOciK7V96OBARoSCRmsONVa6ELAETfeHRmrHmJAIoABCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINQm91cmtlIFN0cmVldFoDNTIwYhE1MjAgQm91cmtlIFN0cmVldIoBDU1lbGJvdXJuZSBDQkQqKlZvY2F0aW9uYWwgTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudHJlIC0gVkxMQzIRNTIwIEJvdXJrZSBTdHJlZXQyEk1lbGJvdXJuZSBWSUMgMzAwMDIJQXVzdHJhbGlhOC9aaQolCJTznIiu1fejgQESEgkZrDjVWuhCwBE33h0Zqx5iQBiuTZADAaIfPwiU85yIrtX3o4EBGjIKKlZvY2F0aW9uYWwgTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudHJlIC0gVkxMQxAAKgJlbg==",
+                "X-APPLE-RADIUS": 141.1739879461204,
+                "X-TITLE": "Vocational Language Learning Centre - VLLC"
+            },
+            "val": "geo:-37.815272,144.958386"
+        }
+    },
+    "20F959E1-0FB7-40F1-8A9C-38A43A4202A0": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-18T03:25:30.000Z",
+        "end": "2021-03-20T04:00:00.000Z",
+        "dtstamp": "2021-03-18T03:25:31.000Z",
+        "start": "2021-03-20T03:00:00.000Z",
+        "lastmodified": "2021-03-18T03:25:30.000Z",
+        "sequence": "0",
+        "summary": "Meet with Clara",
+        "uid": "20F959E1-0FB7-40F1-8A9C-38A43A4202A0",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "220E393C-CCAD-4D57-A2BD-6743275F198B": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-02-26T10:53:21.000Z",
+        "end": "2018-03-06T07:45:00.000Z",
+        "dtstamp": "2018-03-06T01:44:01.000Z",
+        "start": "2018-03-06T06:30:00.000Z",
+        "lastmodified": "2018-03-06T01:44:00.000Z",
+        "location": "Chango",
+        "sequence": "0",
+        "summary": "Dinner with Hugo",
+        "uid": "220E393C-CCAD-4D57-A2BD-6743275F198B",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "22AC36C3-883C-4A63-A817-F3B6F05347A1": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-06-01T12:59:18.000Z",
+        "end": "2021-06-02T00:30:00.000Z",
+        "dtstamp": "2021-06-01T14:46:30.000Z",
+        "start": "2021-06-01T23:30:00.000Z",
+        "lastmodified": "2021-06-01T14:46:30.000Z",
+        "location": "538 Swanston Street\nCarlton, VIC, Australia",
+        "sequence": "1",
+        "summary": "Wake Charis up",
+        "uid": "22AC36C3-883C-4A63-A817-F3B6F05347A1",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AEI2TIaEgn5Kp4f6+ZCwBGN1eb/1R5iQCJjCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoDNTM4YhM1MzggU3dhbnN0b24gU3RyZWV0KhM1MzggU3dhbnN0b24gU3RyZWV0MhM1MzggU3dhbnN0b24gU3RyZWV0MhBDYXJsdG9uIFZJQyAzMDUzMglBdXN0cmFsaWE4OUAAWicKJRISCfkqnh/r5kLAEY3V5v/VHmJAGNkyINzSpNC0k7KFhgGQAwE=",
+                "X-APPLE-RADIUS": 70.58710138160124,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "538 Swanston Street"
+            },
+            "val": "geo:-37.804050,144.963623"
+        }
+    },
+    "23329363-3769-4B64-A754-21AA1DFB60B4": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-13T10:03:58.000Z",
+        "end": "2019-11-15T07:00:00.000Z",
+        "dtstamp": "2019-11-13T10:03:58.000Z",
+        "start": "2019-11-15T06:00:00.000Z",
+        "lastmodified": "2019-11-13T10:03:58.000Z",
+        "sequence": "0",
+        "summary": "Board games",
+        "uid": "23329363-3769-4B64-A754-21AA1DFB60B4",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "23A38239-A841-40D2-894B-890A943948AC": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-06-05T03:10:38.000Z",
+        "end": "2019-06-06T07:30:00.000Z",
+        "dtstamp": "2019-06-05T03:10:39.000Z",
+        "start": "2019-06-06T06:00:00.000Z",
+        "lastmodified": "2019-06-05T03:10:38.000Z",
+        "location": "Sephora\n310 Bourke Street, Melbourne VIC 3000, Australia",
+        "sequence": "0",
+        "summary": "Sephora makeup lesson",
+        "uid": "23A38239-A841-40D2-894B-890A943948AC",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"310 Bourke Street, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES4wEIrk0Qq8y8srmfxMe6ARoSCWn4uxwb6ELAEfX9LzLcHmJAIoEBCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDMglNZWxib3VybmU6BDMwMDBCDU1lbGJvdXJuZSBDQkRSDUJvdXJrZSBTdHJlZXRaAzMxMGIRMzEwIEJvdXJrZSBTdHJlZXSKAQlNZWxib3VybmWKAQ1NZWxib3VybmUgQ0JEKgdTZXBob3JhMhEzMTAgQm91cmtlIFN0cmVldDISTWVsYm91cm5lIFZJQyAzMDAwMglBdXN0cmFsaWE4OQ==",
+                "X-APPLE-RADIUS": 141.1739879752797,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Sephora"
+            },
+            "val": "geo:-37.813327,144.964379"
+        }
+    },
+    "2403F87E-C04B-4C8F-A595-FF72015E0044": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-20T07:05:46.000Z",
+        "end": "2019-11-22T06:00:00.000Z",
+        "dtstamp": "2019-11-20T07:05:46.000Z",
+        "start": "2019-11-22T05:00:00.000Z",
+        "lastmodified": "2019-11-20T07:05:46.000Z",
+        "location": "O'Brien Group Arena\n105 Pearl River Road, Docklands VIC 3008, Australia",
+        "sequence": "0",
+        "summary": "Møte Mieca for skøyter",
+        "uid": "2403F87E-C04B-4C8F-A595-FF72015E0044",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"105 Pearl River Road, Docklands VIC 3008, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES4QEIrk0Q4u6l3KuJiubRARoSCS89TSH850LAEQAAwO/yHWJAInMKCUF1c3RyYWxpYRICQVUaCFZpY3RvcmlhIgNWSUMyCURvY2tsYW5kczoEMzAwOEIJTWVsYm91cm5lUhBQZWFybCBSaXZlciBSb2FkWgMxMDViFDEwNSBQZWFybCBSaXZlciBSb2FkigEJTWVsYm91cm5lKhNPJ0JyaWVuIEdyb3VwIEFyZW5hMhQxMDUgUGVhcmwgUml2ZXIgUm9hZDISRG9ja2xhbmRzIFZJQyAzMDA4MglBdXN0cmFsaWE=",
+                "X-APPLE-RADIUS": 0,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "O'Brien Group Arena"
+            },
+            "val": "geo:-37.812382,144.935905"
+        }
+    },
+    "248FCAA2-0CAC-49DF-AA50-5EBAF891C0A4": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-05T01:59:59.000Z",
+        "description": "agenda://note/EF41E7EC-3CC5-4026-9E47-A434D4C42229",
+        "end": "2021-02-09T07:45:00.000Z",
+        "dtstamp": "2021-02-08T11:07:53.000Z",
+        "start": "2021-02-09T06:45:00.000Z",
+        "lastmodified": "2021-02-08T11:07:50.000Z",
+        "location": "538 Swanston Street\nCarlton, VIC, Australia",
+        "sequence": "0",
+        "summary": "Russian VLLC",
+        "uid": "248FCAA2-0CAC-49DF-AA50-5EBAF891C0A4",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AEI2TIaEgn5Kp4f6+ZCwBGN1eb/1R5iQCJjCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoDNTM4YhM1MzggU3dhbnN0b24gU3RyZWV0KhM1MzggU3dhbnN0b24gU3RyZWV0MhM1MzggU3dhbnN0b24gU3RyZWV0MhBDYXJsdG9uIFZJQyAzMDUzMglBdXN0cmFsaWE4OUAAWicKJRISCfkqnh/r5kLAEY3V5v/VHmJAGNkyINzSpNC0k7KFhgGQAwE=",
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "538 Swanston Street"
+            },
+            "val": "geo:-37.804050,144.963623"
+        }
+    },
+    "2491DD1F-F21B-4DC4-AD0F-B0D7CAB51EAF": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2017-03-17T01:38:21.000Z",
+        "end": "2017-03-20T03:00:00.000Z",
+        "dtstamp": "2017-03-17T01:38:22.000Z",
+        "start": "2017-03-20T02:00:00.000Z",
+        "lastmodified": "2017-03-17T01:38:21.000Z",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 3,
+                "until": "2017-03-27T03:00:00.000Z",
+                "dtstart": "2017-03-20T02:00:00.000Z"
+            },
+            "options": {
+                "freq": 3,
+                "until": "2017-03-27T03:00:00.000Z",
+                "dtstart": "2017-03-20T02:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    2
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 2,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "0",
+        "summary": "Ta östro",
+        "uid": "2491DD1F-F21B-4DC4-AD0F-B0D7CAB51EAF"
+    },
+    "24C9A9E8-1875-4193-A2C3-E74D9BCF43DD": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-06T02:00:15.000Z",
+        "end": "2021-02-15T01:00:00.000Z",
+        "dtstamp": "2021-02-06T08:19:28.000Z",
+        "start": "2021-02-15T00:00:00.000Z",
+        "lastmodified": "2021-02-06T02:00:15.000Z",
+        "location": "23 QV Terrace",
+        "sequence": "0",
+        "summary": "Dentist",
+        "uid": "24C9A9E8-1875-4193-A2C3-E74D9BCF43DD",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "2BD75404-6BEE-450C-9258-BED2FFA96A86": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-13T05:45:05.000Z",
+        "end": "2019-12-08T05:00:00.000Z",
+        "dtstamp": "2019-11-13T05:45:06.000Z",
+        "start": "2019-12-08T04:00:00.000Z",
+        "lastmodified": "2019-11-13T05:45:05.000Z",
+        "location": "Tokyo",
+        "sequence": "0",
+        "summary": "Meet Nana",
+        "uid": "2BD75404-6BEE-450C-9258-BED2FFA96A86",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": 0,
+                "X-APPLE-MAPKIT-HANDLE": "CAEScQjZMhDIzYqmh/K1vUMaEgmpMoy7QdhBQBGV1AloInZhQCISCgVKYXBhbhICSlAaBVRva3lvKgVUb2t5bzIFVG9reW8yBUphcGFuOAJaIwohCMjNiqaH8rW9QxISCakyjLtB2EFAEZXUCWgidmFAGNky",
+                "X-APPLE-RADIUS": 1247644.024935034,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Tokyo"
+            },
+            "val": "geo:35.689506,139.691700"
+        }
+    },
+    "307E51EC-0D6D-4E9D-93ED-056021AFCE80": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-01T08:00:29.000Z",
+        "end": "2018-09-01T04:30:00.000Z",
+        "dtstamp": "2018-09-01T08:00:31.000Z",
+        "start": "2018-09-01T00:30:00.000Z",
+        "lastmodified": "2018-09-01T08:00:29.000Z",
+        "sequence": "0",
+        "summary": "Meet Jas",
+        "uid": "307E51EC-0D6D-4E9D-93ED-056021AFCE80",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "3163660A-A635-40B2-8D17-038957505863": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2015-01-26T19:18:50.000Z",
+        "end": "2015-02-16T13:00:00.000Z",
+        "dtstamp": "2015-01-26T19:19:17.000Z",
+        "start": "2015-02-15T13:00:00.000Z",
+        "lastmodified": "2015-01-26T19:18:50.000Z",
+        "sequence": "0",
+        "summary": "Appointment at risk 理科生徒center",
+        "uid": "3163660A-A635-40B2-8D17-038957505863"
+    },
+    "36681899-8446-4931-B25D-7B24C4C765AD": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-05-20T09:00:18.000Z",
+        "end": "2021-05-22T12:00:00.000Z",
+        "dtstamp": "2021-05-20T16:13:56.000Z",
+        "start": "2021-05-22T09:00:00.000Z",
+        "lastmodified": "2021-05-20T16:13:55.000Z",
+        "sequence": "1",
+        "summary": "Dinner with Laura & Hugo",
+        "uid": "36681899-8446-4931-B25D-7B24C4C765AD",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "3A9F7235-8E92-40D0-9C90-1A8B4E68A0C2": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2014-08-01T17:27:17.000Z",
+        "end": "2014-08-03T03:30:00.000Z",
+        "dtstamp": "2014-08-01T17:27:22.000Z",
+        "start": "2014-08-03T02:30:00.000Z",
+        "lastmodified": "2014-08-01T17:27:17.000Z",
+        "sequence": "0",
+        "summary": "Event",
+        "uid": "3A9F7235-8E92-40D0-9C90-1A8B4E68A0C2"
+    },
+    "3C12499F-AF01-4927-886F-DFEDF8337370": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-16T01:27:31.000Z",
+        "end": "2021-03-16T07:30:00.000Z",
+        "dtstamp": "2021-03-16T01:27:51.000Z",
+        "start": "2021-03-16T06:30:00.000Z",
+        "lastmodified": "2021-03-16T01:27:50.000Z",
+        "sequence": "0",
+        "summary": "Russian Lesson",
+        "uid": "3C12499F-AF01-4927-886F-DFEDF8337370",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "42838E4B-5C25-4B6A-A0A0-BBD4F0ABF09E": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-03-06T08:48:35.000Z",
+        "uid": "42838E4B-5C25-4B6A-A0A0-BBD4F0ABF09E",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 2,
+                "count": 11,
+                "dtstart": "2016-03-08T05:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "count": 11,
+                "dtstart": "2016-03-08T05:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "until": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    5
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 5,
+                    "minute": 30,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "end": "2016-03-08T06:30:00.000Z",
+        "summary": "Japanese Language Exchange",
+        "start": "2016-03-08T05:30:00.000Z",
+        "dtstamp": "2016-03-06T08:49:13.000Z",
+        "sequence": "0"
+    },
+    "46F2435C-201F-4DD5-A626-D25F58D6B1F0": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2015-01-27T20:42:04.000Z",
+        "end": "2015-01-28T02:00:00.000Z",
+        "dtstamp": "2015-01-27T20:42:06.000Z",
+        "start": "2015-01-28T01:00:00.000Z",
+        "lastmodified": "2015-01-27T20:42:04.000Z",
+        "sequence": "0",
+        "summary": "Do ih application",
+        "uid": "46F2435C-201F-4DD5-A626-D25F58D6B1F0"
+    },
+    "4729265E-2002-44C4-8EF2-7704244FA20C": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-04-27T13:20:50.000Z",
+        "end": "2019-04-30T03:00:00.000Z",
+        "dtstamp": "2019-04-27T13:20:50.000Z",
+        "start": "2019-04-30T02:00:00.000Z",
+        "lastmodified": "2019-04-27T13:20:50.000Z",
+        "sequence": "0",
+        "summary": "Lunch with parents",
+        "uid": "4729265E-2002-44C4-8EF2-7704244FA20C",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "4BF0685C-001A-4D9D-ABF8-FAA8078702E9": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-07-10T12:25:08.000Z",
+        "end": "2018-07-13T11:00:00.000Z",
+        "dtstamp": "2018-07-10T12:25:21.000Z",
+        "start": "2018-07-13T09:00:00.000Z",
+        "lastmodified": "2018-07-10T12:25:20.000Z",
+        "sequence": "0",
+        "summary": "Dinner with Hugo",
+        "uid": "4BF0685C-001A-4D9D-ABF8-FAA8078702E9",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=771A50C2-3B32-4DF8-AD85-6D10894EAD6D"
+        }
+    },
+    "4E295631-3CE7-471A-A00C-8589B5A2145A": {
+        "type": "VEVENT",
+        "params": [],
+        "attendee": {
+            "params": {
+                "CN": "Ryan C Chew",
+                "CUTYPE": "INDIVIDUAL",
+                "PARTSTAT": "ACCEPTED",
+                "EMAIL": "ryansst386@gmail.com"
+            },
+            "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+        },
+        "created": "2021-01-28T10:11:20.000Z",
+        "end": "2021-02-01T02:00:00.000Z",
+        "dtstamp": "2021-01-28T10:11:22.000Z",
+        "start": "2021-02-01T01:00:00.000Z",
+        "lastmodified": "2021-01-28T10:11:20.000Z",
+        "organizer": {
+            "params": {
+                "CN": "Ryan C Chew",
+                "EMAIL": "ryansst386@gmail.com"
+            },
+            "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+        },
+        "sequence": "0",
+        "summary": "Lunch",
+        "uid": "4E295631-3CE7-471A-A00C-8589B5A2145A"
+    },
+    "4E52854A-4D63-4FF3-8BEC-3F02600B6839": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-09-22T17:16:42.000Z",
+        "end": "2019-09-23T01:00:00.000Z",
+        "dtstamp": "2019-09-22T17:16:43.000Z",
+        "start": "2019-09-23T00:00:00.000Z",
+        "lastmodified": "2019-09-22T17:16:42.000Z",
+        "sequence": "0",
+        "summary": "Contact Jin about Apple Pencil ",
+        "uid": "4E52854A-4D63-4FF3-8BEC-3F02600B6839",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "4E89914B-8086-46EA-9015-09559D611C21": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2014-07-18T16:32:52.000Z",
+        "end": "2014-07-19T08:30:00.000Z",
+        "dtstamp": "2014-07-18T16:32:55.000Z",
+        "start": "2014-07-19T02:30:00.000Z",
+        "lastmodified": "2014-07-18T16:32:52.000Z",
+        "location": "ミットバレーのスターバックス",
+        "sequence": "0",
+        "summary": "昔の友達「さくら」と会う",
+        "uid": "4E89914B-8086-46EA-9015-09559D611C21"
+    },
+    "4F3C4B6D-AEDC-4E81-9FED-618BD7A58327": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-09-30T06:41:14.000Z",
+        "end": "2019-10-01T03:00:00.000Z",
+        "dtstamp": "2019-09-30T06:41:15.000Z",
+        "start": "2019-10-01T02:00:00.000Z",
+        "lastmodified": "2019-09-30T06:41:14.000Z",
+        "sequence": "0",
+        "summary": "Phone call about software developer internship",
+        "uid": "4F3C4B6D-AEDC-4E81-9FED-618BD7A58327",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "4FEDEAC3-A63A-42B1-92D8-FDB8B9817836": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-06-30T06:31:21.000Z",
+        "end": "2019-07-17T00:30:00.000Z",
+        "dtstamp": "2019-06-30T06:31:22.000Z",
+        "start": "2019-07-17T00:00:00.000Z",
+        "lastmodified": "2019-06-30T06:31:21.000Z",
+        "location": "38 Bank Street\nSouth Melbourne, VIC, Australia",
+        "sequence": "0",
+        "summary": "Violin lesson",
+        "uid": "4FEDEAC3-A63A-42B1-92D8-FDB8B9817836",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"South Melbourne, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESwAEaEgmMbhhgeupCwBHfrvJf+x5iQCJhCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyD1NvdXRoIE1lbGJvdXJuZToEMzIwNVILQmFuayBTdHJlZXRaAjM4Yg4zOCBCYW5rIFN0cmVldCoOMzggQmFuayBTdHJlZXQyDjM4IEJhbmsgU3RyZWV0MhhTb3V0aCBNZWxib3VybmUgVklDIDMyMDUyCUF1c3RyYWxpYTg5QAA=",
+                "X-APPLE-RADIUS": 70.58710127540985,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "38 Bank Street"
+            },
+            "val": "geo:-37.831860,144.968185"
+        }
+    },
+    "504A319F-2584-415A-A6BF-0F80D1FC5BD7": {
+        "type": "VEVENT",
+        "params": [],
+        "conference": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "tel://0431767708"
+        },
+        "created": "2021-08-04T03:05:14.000Z",
+        "description": "0431767708",
+        "end": "2021-08-13T03:00:00.000Z",
+        "dtstamp": "2021-08-05T07:06:26.000Z",
+        "start": "2021-08-13T02:00:00.000Z",
+        "lastmodified": "2021-08-05T07:06:25.000Z",
+        "location": "Lash House\n207T/26 Watertank Way, Melbourne VIC 3000, Australia",
+        "sequence": "1",
+        "summary": "Lashes",
+        "uid": "504A319F-2584-415A-A6BF-0F80D1FC5BD7",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=21848265-64F8-4614-A4C4-CF65777016B2"
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"207T/26 Watertank Way, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESwgIIrk0QoI2UiYaxxr3EARoSCZsLM1BK6ELAEQAAgIR/HmJAIo4BCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINV2F0ZXJ0YW5rIFdheVoCMjZiFTIwN1QvMjYgV2F0ZXJ0YW5rIFdheYoBDU1lbGJvdXJuZSBDQkSaAQgIABIEMjA3VCoKTGFzaCBIb3VzZTIVMjA3VC8yNiBXYXRlcnRhbmsgV2F5MhJNZWxib3VybmUgVklDIDMwMDAyCUF1c3RyYWxpYTgvWkkKJQigjZSJhrHGvcQBEhIJmwszUEroQsARAACAhH8eYkAYrk2QAwGiHx8IoI2UiYaxxr3EARoSCgpMYXNoIEhvdXNlEAAqAmVu",
+                "X-APPLE-RADIUS": 141.1739879500118,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "Lash House"
+            },
+            "val": "geo:-37.814768,144.953066"
+        }
+    },
+    "55F3E1E0-B5CC-4718-89A1-3BC7D8BD108A": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-07-06T01:13:50.000Z",
+        "end": "2019-07-10T03:45:00.000Z",
+        "dtstamp": "2019-07-06T01:13:57.000Z",
+        "start": "2019-07-10T02:45:00.000Z",
+        "lastmodified": "2019-07-06T01:13:55.000Z",
+        "sequence": "0",
+        "summary": "Doctor",
+        "uid": "55F3E1E0-B5CC-4718-89A1-3BC7D8BD108A",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "595BED08-7324-415C-A870-FE646FF9CFF0": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-08-19T09:36:42.000Z",
+        "end": "2018-10-29T13:00:00.000Z",
+        "dtstamp": "2019-10-28T01:15:32.000Z",
+        "start": "2018-10-28T13:00:00.000Z",
+        "lastmodified": "2019-10-28T01:15:31.000Z",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 0,
+                "dtstart": "2018-10-28T13:00:00.000Z"
+            },
+            "options": {
+                "freq": 0,
+                "dtstart": "2018-10-28T13:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": [
+                    10
+                ],
+                "bymonthday": [
+                    28
+                ],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    13
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 13,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "0",
+        "summary": "Jas’ Birthday",
+        "uid": "595BED08-7324-415C-A870-FE646FF9CFF0",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "5A970EFB-F5A3-476C-94C7-55E82BF02516": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-04T10:08:34.000Z",
+        "end": "2021-02-05T13:00:00.000Z",
+        "dtstamp": "2021-02-04T10:08:34.000Z",
+        "start": "2021-02-04T13:00:00.000Z",
+        "lastmodified": "2021-02-04T10:08:34.000Z",
+        "sequence": "0",
+        "summary": "Call VLLS",
+        "uid": "5A970EFB-F5A3-476C-94C7-55E82BF02516",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "5BB4BE67-6B17-4C7F-80D7-E4ADF756BB5F": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-02T02:03:40.000Z",
+        "end": "2021-03-27T01:00:00.000Z",
+        "dtstamp": "2021-03-02T02:03:41.000Z",
+        "start": "2021-03-27T00:00:00.000Z",
+        "lastmodified": "2021-03-02T02:03:40.000Z",
+        "location": "23 QV Terrace",
+        "sequence": "0",
+        "summary": "Dentist",
+        "uid": "5BB4BE67-6B17-4C7F-80D7-E4ADF756BB5F",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "5E900AEA-C256-4177-A0D1-BD6DB1F0F7D0": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-03T22:56:44.000Z",
+        "description": "agenda://note/266A1297-61D9-44E7-B3BF-4204A7CD2B68",
+        "end": "2021-02-09T04:00:00.000Z",
+        "dtstamp": "2021-02-08T11:19:27.000Z",
+        "start": "2021-02-09T03:00:00.000Z",
+        "lastmodified": "2021-02-08T11:19:25.000Z",
+        "location": "538 Swanston Street\nCarlton, VIC, Australia",
+        "sequence": "0",
+        "summary": "Bed bug inspection",
+        "uid": "5E900AEA-C256-4177-A0D1-BD6DB1F0F7D0",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AEI2TIaEgn5Kp4f6+ZCwBGN1eb/1R5iQCJjCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoDNTM4YhM1MzggU3dhbnN0b24gU3RyZWV0KhM1MzggU3dhbnN0b24gU3RyZWV0MhM1MzggU3dhbnN0b24gU3RyZWV0MhBDYXJsdG9uIFZJQyAzMDUzMglBdXN0cmFsaWE4OUAAWicKJRISCfkqnh/r5kLAEY3V5v/VHmJAGNkyINzSpNC0k7KFhgGQAwE=",
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "538 Swanston Street"
+            },
+            "val": "geo:-37.804050,144.963623"
+        }
+    },
+    "618BA300-C5CD-4CEB-B68E-A441A88817C0": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-04-19T02:44:09.000Z",
+        "uid": "618BA300-C5CD-4CEB-B68E-A441A88817C0",
+        "end": "2018-04-20T12:00:00.000Z",
+        "summary": "Meet Charis",
+        "start": "2018-04-20T10:00:00.000Z",
+        "dtstamp": "2018-04-19T02:45:07.000Z",
+        "sequence": "0"
+    },
+    "61D79D95-B921-4891-8D4E-2407306F7F31": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-07-17T12:51:28.000Z",
+        "end": "2019-06-14T14:00:00.000Z",
+        "dtstamp": "2019-07-17T12:51:29.000Z",
+        "start": "2019-06-13T14:00:00.000Z",
+        "lastmodified": "2019-07-17T12:51:28.000Z",
+        "sequence": "0",
+        "summary": "Jas breakup",
+        "uid": "61D79D95-B921-4891-8D4E-2407306F7F31",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "637F4517-3FB0-4303-9E54-FF0B9AFA862D": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-06-01T00:59:57.000Z",
+        "end": "2021-06-01T03:00:00.000Z",
+        "dtstamp": "2021-06-01T01:01:20.000Z",
+        "start": "2021-06-01T02:00:00.000Z",
+        "lastmodified": "2021-06-01T01:01:19.000Z",
+        "location": "Teams",
+        "sequence": "5",
+        "summary": "Meeting with Keegan ",
+        "uid": "637F4517-3FB0-4303-9E54-FF0B9AFA862D",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "6801AA68-17D5-441B-B3A8-858792261499": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-09T07:06:05.000Z",
+        "description": "agenda://note/C2C6F717-2260-4383-B9AA-A28375FC96B2",
+        "end": "2021-02-16T08:00:00.000Z",
+        "dtstamp": "2021-02-09T07:06:21.000Z",
+        "start": "2021-02-16T07:00:00.000Z",
+        "lastmodified": "2021-02-09T07:06:20.000Z",
+        "location": "VLLC",
+        "sequence": "0",
+        "summary": "First Russian lesson",
+        "uid": "6801AA68-17D5-441B-B3A8-858792261499"
+    },
+    "6A29DBEA-E644-4632-9526-0272DF425A17": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2015-02-24T03:58:44.000Z",
+        "end": "2015-03-11T03:30:00.000Z",
+        "dtstamp": "2015-03-11T02:45:16.000Z",
+        "start": "2015-03-11T03:00:00.000Z",
+        "lastmodified": "2015-03-11T02:45:08.000Z",
+        "location": "Frank Tate 757 Swanston Street, Parkville VIC 3052, Australia",
+        "sequence": "0",
+        "summary": "Advice appointment",
+        "uid": "6A29DBEA-E644-4632-9526-0272DF425A17"
+    },
+    "6B1047AC-254F-4185-A15D-7756213A2740": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-05T23:12:54.000Z",
+        "end": "2018-09-11T12:30:00.000Z",
+        "dtstamp": "2018-09-05T23:19:03.000Z",
+        "start": "2018-09-11T06:30:00.000Z",
+        "lastmodified": "2018-09-05T23:19:01.000Z",
+        "location": "Kananook Station\nSeaford VIC, Australia",
+        "sequence": "0",
+        "summary": "Go to Jas’ house",
+        "uid": "6B1047AC-254F-4185-A15D-7756213A2740",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Seaford VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESdQiuTRCTl9Oz7smfp6ABGhIJNQhzu5cPQ8ARk8ZoHVUkYkAiJwoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQzIHU2VhZm9yZCoQS2FuYW5vb2sgU3RhdGlvbjILU2VhZm9yZCBWSUMyCUF1c3RyYWxpYQ==",
+                "X-APPLE-RADIUS": 148.3115765512894,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Kananook Station"
+            },
+            "val": "geo:-38.121818,145.135390"
+        }
+    },
+    "6C0742F9-63BA-4E58-A5FB-706092884BB5": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-10-14T06:11:42.000Z",
+        "end": "2019-10-14T12:00:00.000Z",
+        "dtstamp": "2021-05-19T05:06:38.000Z",
+        "start": "2019-10-14T11:00:00.000Z",
+        "lastmodified": "2021-05-19T05:05:11.000Z",
+        "location": "819/528 Swanston Street\nCarlton, VIC, Australia",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 2,
+                "until": "2020-12-28T11:00:00.000Z",
+                "dtstart": "2019-10-14T11:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "until": "2020-12-28T11:00:00.000Z",
+                "dtstart": "2019-10-14T11:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    0
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    11
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 11,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "1",
+        "summary": "Cleaning",
+        "uid": "6C0742F9-63BA-4E58-A5FB-706092884BB5",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AEIwjsaEgmx3T1A9+ZCwBFLRRlg1R5iQCJjCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoDNTI4YhM1MjggU3dhbnN0b24gU3RyZWV0KhM1MjggU3dhbnN0b24gU3RyZWV0MhM1MjggU3dhbnN0b24gU3RyZWV0MhBDYXJsdG9uIFZJQyAzMDUzMglBdXN0cmFsaWE4OUAAWicKJRISCbHdPUD35kLAEUtFGWDVHmJAGMI7INbphZLI1qv1zwGQAwE=",
+                "X-APPLE-RADIUS": 70.58710138542706,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "819/528 Swanston Street"
+            },
+            "val": "geo:-37.804420,144.963547"
+        }
+    },
+    "6FBD0C74-D640-4802-8811-BDE5C20C036A": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-14T11:32:21.000Z",
+        "end": "2019-11-15T05:00:00.000Z",
+        "dtstamp": "2019-11-14T11:32:26.000Z",
+        "start": "2019-11-15T04:00:00.000Z",
+        "lastmodified": "2019-11-14T11:32:21.000Z",
+        "sequence": "0",
+        "summary": "Arrangement",
+        "uid": "6FBD0C74-D640-4802-8811-BDE5C20C036A"
+    },
+    "70A69B6A-E6DF-4A26-92BA-780E18193074": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-10-17T02:44:17.000Z",
+        "description": "Level 5",
+        "end": "2019-10-23T06:30:00.000Z",
+        "dtstamp": "2019-10-22T04:11:55.000Z",
+        "start": "2019-10-23T04:15:00.000Z",
+        "lastmodified": "2019-10-17T02:44:29.000Z",
+        "location": "406 Collins Street\nMelbourne, VIC, Australia",
+        "sequence": "2",
+        "summary": "Afterpay Assessment Day",
+        "uid": "70A69B6A-E6DF-4A26-92BA-780E18193074",
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-APPLE-MAPKIT-HANDLE": "CAESjAII2TIaEglQNA9gkehCwBHID/D/vh5iQCKCAQoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQyoJTWVsYm91cm5lMglNZWxib3VybmU6BDMwMDBCDU1lbGJvdXJuZSBDQkRSDkNvbGxpbnMgU3RyZWV0WgM0MDZiEjQwNiBDb2xsaW5zIFN0cmVldIoBDU1lbGJvdXJuZSBDQkQqEjQwNiBDb2xsaW5zIFN0cmVldDISNDA2IENvbGxpbnMgU3RyZWV0MhJNZWxib3VybmUgVklDIDMwMDAyCUF1c3RyYWxpYTg5QABaIwohEhIJUDQPYJHoQsARyA/w/74eYkAY2TIgg/3+oOPlucNv",
+                "X-APPLE-RADIUS": 70.58710133633384,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "\"406 Collins Street\\nMelbourne, VIC, Australia\""
+            },
+            "val": "geo:-37.816936,144.960815"
+        }
+    },
+    "723EB932-1E2D-429B-9799-9DBA473CF38A": {
+        "type": "VEVENT",
+        "params": [],
+        "end": "2019-08-21T02:00:00.000Z",
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"East Melbourne, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES1gEaEgm3oFKAg+hCwBH5l+6/nx9iQCJsCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyDkVhc3QgTWVsYm91cm5lOgQzMDAyUhFXZWxsaW5ndG9uIFBhcmFkZVoCNjJiFDYyIFdlbGxpbmd0b24gUGFyYWRlKhQ2MiBXZWxsaW5ndG9uIFBhcmFkZTIUNjIgV2VsbGluZ3RvbiBQYXJhZGUyF0Vhc3QgTWVsYm91cm5lIFZJQyAzMDAyMglBdXN0cmFsaWE4OUAA",
+                "X-APPLE-RADIUS": 70.58710133429267,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "62 Wellington Parade"
+            },
+            "val": "geo:-37.816513,144.988251"
+        },
+        "uid": "723EB932-1E2D-429B-9799-9DBA473CF38A",
+        "dtstamp": "2019-10-01T02:19:01.000Z",
+        "location": "62 Wellington Parade\nEast Melbourne, VIC, Australia",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "sequence": "0",
+        "summary": "Psych ",
+        "lastmodified": "2019-09-03T23:00:05.000Z",
+        "start": "2019-08-21T01:00:00.000Z",
+        "created": "2019-08-08T23:47:44.000Z",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 2,
+                "until": "2019-10-16T00:00:00.000Z",
+                "interval": 2,
+                "dtstart": "2019-08-21T01:00:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "until": "2019-10-16T00:00:00.000Z",
+                "interval": 2,
+                "dtstart": "2019-08-21T01:00:00.000Z",
+                "wkst": 0,
+                "count": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    2
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    1
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 1,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "recurrences": []
+    },
+    "73C7A0D9-7C55-41C1-A4A2-D05E5724693D": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-03T05:48:24.000Z",
+        "end": "2021-02-04T06:00:00.000Z",
+        "dtstamp": "2021-02-03T05:48:32.000Z",
+        "start": "2021-02-04T05:00:00.000Z",
+        "lastmodified": "2021-02-03T05:48:30.000Z",
+        "location": "538 Swanston Street\nCarlton, VIC, Australia",
+        "sequence": "0",
+        "summary": "Language meet ",
+        "uid": "73C7A0D9-7C55-41C1-A4A2-D05E5724693D",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AEI2TIaEgn5Kp4f6+ZCwBGN1eb/1R5iQCJjCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoDNTM4YhM1MzggU3dhbnN0b24gU3RyZWV0KhM1MzggU3dhbnN0b24gU3RyZWV0MhM1MzggU3dhbnN0b24gU3RyZWV0MhBDYXJsdG9uIFZJQyAzMDUzMglBdXN0cmFsaWE4OUAAWicKJRISCfkqnh/r5kLAEY3V5v/VHmJAGNkyINzSpNC0k7KFhgGQAwE=",
+                "X-APPLE-RADIUS": 70.58710138160124,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "538 Swanston Street"
+            },
+            "val": "geo:-37.804050,144.963623"
+        }
+    },
+    "77E13FE8-04C3-466B-AF4D-EA4884CB17BB": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-08-27T08:09:40.000Z",
+        "end": "2018-08-07T14:00:00.000Z",
+        "dtstamp": "2021-07-14T07:17:43.000Z",
+        "start": "2018-08-06T14:00:00.000Z",
+        "lastmodified": "2018-11-06T09:07:56.000Z",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 0,
+                "until": "2020-08-07T00:00:00.000Z",
+                "dtstart": "2018-08-06T14:00:00.000Z"
+            },
+            "options": {
+                "freq": 0,
+                "until": "2020-08-07T00:00:00.000Z",
+                "dtstart": "2018-08-06T14:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": [
+                    8
+                ],
+                "bymonthday": [
+                    6
+                ],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    14
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 14,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "0",
+        "summary": "Jas Anniversary",
+        "uid": "77E13FE8-04C3-466B-AF4D-EA4884CB17BB",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "77E7B9E1-7983-41DB-B946-F255345DBC04": {
+        "type": "VEVENT",
+        "params": [],
+        "attendee": [
+            {
+                "params": {
+                    "CN": "Ryan C Chew",
+                    "CUTYPE": "INDIVIDUAL",
+                    "PARTSTAT": "ACCEPTED",
+                    "EMAIL": "ryansst386@gmail.com"
+                },
+                "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+            },
+            {
+                "params": {
+                    "CN": "Sam Loh",
+                    "CUTYPE": "INDIVIDUAL",
+                    "X-APPLE-TELEPHONE": 61411883326,
+                    "SCHEDULE-STATUS": 5.1
+                },
+                "val": "tel:+61411883326"
+            }
+        ],
+        "created": "2021-01-19T08:08:43.000Z",
+        "end": "2021-01-21T09:30:00.000Z",
+        "dtstamp": "2021-01-19T08:08:44.000Z",
+        "start": "2021-01-21T07:30:00.000Z",
+        "lastmodified": "2021-01-19T08:08:43.000Z",
+        "location": "819/528 Swanston Street\nCarlton, VIC, Australia",
+        "organizer": {
+            "params": {
+                "CN": "Ryan C Chew",
+                "EMAIL": "ryansst386@gmail.com"
+            },
+            "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+        },
+        "sequence": "0",
+        "summary": "Meet up with Sam / Ryan",
+        "uid": "77E7B9E1-7983-41DB-B946-F255345DBC04",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8gEI2TIaEgl1YDBPeOZCwBH01AVG1h5iQCJrCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoHODE5LzUyOGIXODE5LzUyOCBTd2Fuc3RvbiBTdHJlZXQqFzgxOS81MjggU3dhbnN0b24gU3RyZWV0Mhc4MTkvNTI4IFN3YW5zdG9uIFN0cmVldDIQQ2FybHRvbiBWSUMgMzA1MzIJQXVzdHJhbGlhODlAAloZChcSEgl1YDBPeOZCwBH01AVG1h5iQBjZMg==",
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "819/528 Swanston Street"
+            },
+            "val": "geo:-37.800547,144.963656"
+        }
+    },
+    "79385EF9-E7A2-4A95-9D3B-9C88D4747B7D": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2020-02-16T08:07:28.000Z",
+        "end": "2020-02-22T01:00:00.000Z",
+        "dtstamp": "2020-02-16T08:07:29.000Z",
+        "start": "2020-02-22T00:00:00.000Z",
+        "lastmodified": "2020-02-16T08:07:28.000Z",
+        "location": "81 Swanston Street\nMelbourne VIC 3000\nAustralia",
+        "sequence": "0",
+        "summary": "Origani Face thing",
+        "uid": "79385EF9-E7A2-4A95-9D3B-9C88D4747B7D",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "81 Swanston Street\\\\nMelbourne VIC 3000\\\\nAustralia",
+                "X-APPLE-RADIUS": 100,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "81 Swanston Street"
+            },
+            "val": "geo:-37.812906,144.965353"
+        }
+    },
+    "7E5E9F39-33B1-449A-A319-AEAF1109869D": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-13T05:44:28.000Z",
+        "end": "2019-11-24T18:00:00.000Z",
+        "dtstamp": "2019-11-13T05:44:29.000Z",
+        "start": "2019-11-24T17:00:00.000Z",
+        "lastmodified": "2019-11-13T05:44:28.000Z",
+        "location": "819/528 Swanston Street\nCarlton, VIC, Australia",
+        "sequence": "0",
+        "summary": "Farmehr arrives",
+        "uid": "7E5E9F39-33B1-449A-A319-AEAF1109869D",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8gEI2TIaEgl1YDBPeOZCwBH01AVG1h5iQCJrCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoHODE5LzUyOGIXODE5LzUyOCBTd2Fuc3RvbiBTdHJlZXQqFzgxOS81MjggU3dhbnN0b24gU3RyZWV0Mhc4MTkvNTI4IFN3YW5zdG9uIFN0cmVldDIQQ2FybHRvbiBWSUMgMzA1MzIJQXVzdHJhbGlhODlAAloZChcSEgl1YDBPeOZCwBH01AVG1h5iQBjZMg==",
+                "X-APPLE-RADIUS": 0,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "819/528 Swanston Street"
+            },
+            "val": "geo:-37.800547,144.963656"
+        }
+    },
+    "7FC48A06-8E58-4873-9B1B-23AB93831A8C": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-24T02:45:22.000Z",
+        "end": "2021-03-25T05:00:00.000Z",
+        "dtstamp": "2021-03-24T02:45:28.000Z",
+        "start": "2021-03-25T04:00:00.000Z",
+        "lastmodified": "2021-03-24T02:45:27.000Z",
+        "location": "Lash House\n207T/26 Watertank Way, Melbourne VIC 3000, Australia",
+        "sequence": "0",
+        "summary": "Get lashes done",
+        "uid": "7FC48A06-8E58-4873-9B1B-23AB93831A8C",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=43AFBE09-EDB6-4F74-814E-EA4B6FF1152C"
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"207T/26 Watertank Way, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESwgIIrk0QoI2UiYaxxr3EARoSCZsLM1BK6ELAEQAAgIR/HmJAIo4BCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINV2F0ZXJ0YW5rIFdheVoCMjZiFTIwN1QvMjYgV2F0ZXJ0YW5rIFdheYoBDU1lbGJvdXJuZSBDQkSaAQgIABIEMjA3VCoKTGFzaCBIb3VzZTIVMjA3VC8yNiBXYXRlcnRhbmsgV2F5MhJNZWxib3VybmUgVklDIDMwMDAyCUF1c3RyYWxpYTgvWkkKJQigjZSJhrHGvcQBEhIJmwszUEroQsARAACAhH8eYkAYrk2QAwGiHx8IoI2UiYaxxr3EARoSCgpMYXNoIEhvdXNlEAAqAmVu",
+                "X-APPLE-RADIUS": 141.1739879500118,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "Lash House"
+            },
+            "val": "geo:-37.814768,144.953066"
+        }
+    },
+    "80C92D67-7421-40A2-BAF2-440500915B9E": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-09-17T16:03:44.000Z",
+        "end": "2016-09-18T05:00:00.000Z",
+        "dtstamp": "2016-09-28T15:36:38.000Z",
+        "start": "2016-09-18T04:00:00.000Z",
+        "lastmodified": "2016-09-17T16:03:44.000Z",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 3,
+                "until": "2016-09-27T04:00:00.000Z",
+                "dtstart": "2016-09-18T04:00:00.000Z"
+            },
+            "options": {
+                "freq": 3,
+                "until": "2016-09-27T04:00:00.000Z",
+                "dtstart": "2016-09-18T04:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    4
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 4,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "0",
+        "summary": "Ta östro",
+        "uid": "80C92D67-7421-40A2-BAF2-440500915B9E"
+    },
+    "8131B4F2-C916-421A-A710-E4A79DFB71F7": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-09-21T16:39:44.000Z",
+        "end": "2019-09-22T04:00:00.000Z",
+        "dtstamp": "2019-09-21T17:26:44.000Z",
+        "start": "2019-09-22T03:00:00.000Z",
+        "lastmodified": "2019-09-21T17:26:44.000Z",
+        "sequence": "0",
+        "summary": "Talk with Nana",
+        "uid": "8131B4F2-C916-421A-A710-E4A79DFB71F7",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "82B87583-4B43-44FA-BA30-18A3CCE0B53E": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-05-25T08:29:53.000Z",
+        "end": "2021-06-01T08:00:00.000Z",
+        "dtstamp": "2021-05-25T08:54:13.000Z",
+        "start": "2021-06-01T07:00:00.000Z",
+        "lastmodified": "2021-05-25T08:30:15.000Z",
+        "sequence": "0",
+        "summary": "Russian Class",
+        "uid": "82B87583-4B43-44FA-BA30-18A3CCE0B53E",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "879C0D0F-CAEF-441C-9390-16824E607309": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-06-01T03:55:14.000Z",
+        "end": "2021-06-02T10:00:00.000Z",
+        "dtstamp": "2021-06-01T03:55:16.000Z",
+        "start": "2021-06-02T09:00:00.000Z",
+        "lastmodified": "2021-06-01T03:55:14.000Z",
+        "sequence": "0",
+        "summary": "Meeting with Keegan ",
+        "uid": "879C0D0F-CAEF-441C-9390-16824E607309",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "8C9EC9AA-BF5A-42B0-9F74-1A8893867D22": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-01-18T16:10:55.000Z",
+        "end": "2021-02-26T13:00:00.000Z",
+        "dtstamp": "2021-01-18T16:10:55.000Z",
+        "start": "2021-02-25T13:00:00.000Z",
+        "lastmodified": "2021-01-18T16:10:55.000Z",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 0,
+                "dtstart": "2021-02-25T13:00:00.000Z"
+            },
+            "options": {
+                "freq": 0,
+                "dtstart": "2021-02-25T13:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "until": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": [
+                    2
+                ],
+                "bymonthday": [
+                    25
+                ],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    13
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 13,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "0",
+        "summary": "Bex’ birthday",
+        "uid": "8C9EC9AA-BF5A-42B0-9F74-1A8893867D22",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "8F54324E-B241-4833-A7EC-7E0BD625C47E": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-07T14:00:35.000Z",
+        "end": "2018-09-14T09:30:00.000Z",
+        "dtstamp": "2018-09-13T13:57:31.000Z",
+        "start": "2018-09-14T08:30:00.000Z",
+        "lastmodified": "2018-09-13T13:57:28.000Z",
+        "sequence": "0",
+        "summary": "Dinner with Vernetta",
+        "uid": "8F54324E-B241-4833-A7EC-7E0BD625C47E",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "8F64FEE5-D557-4676-AE40-EC2C3C0354AB": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2014-08-28T04:05:37.000Z",
+        "end": "2014-08-28T07:00:00.000Z",
+        "dtstamp": "2014-08-28T04:05:49.000Z",
+        "start": "2014-08-28T06:00:00.000Z",
+        "lastmodified": "2014-08-28T04:05:48.000Z",
+        "sequence": "0",
+        "summary": "Post Prac test",
+        "uid": "8F64FEE5-D557-4676-AE40-EC2C3C0354AB"
+    },
+    "928B3689-1FB9-4980-892D-1E53AC8A59B2": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-07T21:30:55.000Z",
+        "end": "2019-11-09T02:00:00.000Z",
+        "dtstamp": "2019-11-07T21:30:56.000Z",
+        "start": "2019-11-09T01:00:00.000Z",
+        "lastmodified": "2019-11-07T21:30:55.000Z",
+        "location": "Melbourne Central Station\nMelbourne VIC, Australia",
+        "sequence": "0",
+        "summary": "Lunch with Hugo ",
+        "uid": "928B3689-1FB9-4980-892D-1E53AC8A59B2",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Melbourne VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESgwEIrk0QnJ/zrfe397QkGhIJBzqkYq3nQsARhv8ZStIeYkAiKQoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQzIJTWVsYm91cm5lKhlNZWxib3VybmUgQ2VudHJhbCBTdGF0aW9uMg1NZWxib3VybmUgVklDMglBdXN0cmFsaWE4EA==",
+                "X-APPLE-RADIUS": 0,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Melbourne Central Station"
+            },
+            "val": "geo:-37.809979,144.963170"
+        }
+    },
+    "92DD3B8A-814D-4273-A06D-A1B04A009F6E": {
+        "type": "VEVENT",
+        "params": [],
+        "attendee": [
+            {
+                "params": {
+                    "CN": "Ryan C Chew",
+                    "CUTYPE": "INDIVIDUAL",
+                    "PARTSTAT": "ACCEPTED",
+                    "EMAIL": "ryansst386@gmail.com"
+                },
+                "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+            },
+            {
+                "params": {
+                    "CN": "Ujjwal Batra",
+                    "CUTYPE": "INDIVIDUAL",
+                    "X-APPLE-TELEPHONE": 61450707919
+                },
+                "val": "tel:+61450707919"
+            }
+        ],
+        "created": "2020-06-24T11:17:45.000Z",
+        "end": "2020-06-27T03:00:00.000Z",
+        "dtstamp": "2020-06-24T11:20:34.000Z",
+        "start": "2020-06-27T02:00:00.000Z",
+        "lastmodified": "2020-06-24T11:20:34.000Z",
+        "location": "PappaRich\nLevel 2, Shop 11, QV Square, Melbourne VIC 3000, Australia",
+        "organizer": {
+            "params": {
+                "CN": "Ryan C Chew",
+                "EMAIL": "ryansst386@gmail.com"
+            },
+            "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+        },
+        "sequence": "0",
+        "summary": "Lunch { People: []string{“Ryan”, “Ujjwal”}}",
+        "uid": "92DD3B8A-814D-4273-A06D-A1B04A009F6E",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=91A2C37D-BA63-4BF7-A183-63E15CF73DF9"
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Level 2, Shop 11, QV Square, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESrQIIrk0Qg434u5rXveW1ARoSCTU3ERy850LAEQAAAKjqHmJAInYKCUF1c3RyYWxpYRICQVUaCFZpY3RvcmlhIgNWSUMyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRHIJUVYgU3F1YXJligEJTWVsYm91cm5ligENTWVsYm91cm5lIENCRJoBBggAEgIxMZoBBQgBEgEyKglQYXBwYVJpY2gyG0xldmVsIDIsIFNob3AgMTEsIFFWIFNxdWFyZTISTWVsYm91cm5lIFZJQyAzMDAwMglBdXN0cmFsaWE4L1pICiUIg434u5rXveW1ARISCTU3ERy850LAEQAAAKjqHmJAGK5NkAMBoh8eCION+Lua173ltQEaEQoJUGFwcGFSaWNoEAAqAmVu",
+                "X-APPLE-RADIUS": 141.5933870086202,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "PappaRich"
+            },
+            "val": "geo:-37.810428,144.966145"
+        },
+        "APPLE-SUGGESTION-INFO-CHANGED-FIELDS": "0",
+        "APPLE-SUGGESTION-INFO-CHANGES-ACKNOWLEDGED": "FALSE",
+        "APPLE-SUGGESTION-INFO-OPAQUE-KEY": "|614476800/D/AFPkDiT6",
+        "APPLE-SUGGESTION-INFO-UNIQUE-KEY": "|2|\\|614476800/D/AFPkDiT6|\\|13\\|\\\\\\|iMessage;-;+61450707919\\\\\\|91A2C37D-BA63-4BF7-A183-63E15CF73DF9"
+    },
+    "942B326D-669F-4CE2-B312-5C3255A7BA84": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-12T00:01:22.000Z",
+        "end": "2035-01-01T07:00:00.000Z",
+        "dtstamp": "2019-11-12T00:01:23.000Z",
+        "start": "2034-01-01T07:00:00.000Z",
+        "lastmodified": "2019-11-12T00:01:22.000Z",
+        "sequence": "0",
+        "summary": "Møte",
+        "uid": "942B326D-669F-4CE2-B312-5C3255A7BA84"
+    },
+    "95AED68A-A362-4D60-912A-C998D3EDE9FF": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-07-17T12:52:50.000Z",
+        "end": "2019-06-14T13:00:00.000Z",
+        "dtstamp": "2019-07-17T12:52:51.000Z",
+        "start": "2019-06-14T12:00:00.000Z",
+        "lastmodified": "2019-07-17T12:52:50.000Z",
+        "sequence": "0",
+        "summary": "Jas breakup",
+        "uid": "95AED68A-A362-4D60-912A-C998D3EDE9FF",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "97D65442-C53B-437E-8C77-B6E7C745D2AD": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-18T04:35:15.000Z",
+        "end": "2021-03-02T02:00:00.000Z",
+        "dtstamp": "2021-02-18T04:35:15.000Z",
+        "start": "2021-03-02T01:00:00.000Z",
+        "lastmodified": "2021-02-18T04:35:15.000Z",
+        "location": "Qv dental",
+        "sequence": "0",
+        "summary": "Hygienist ",
+        "uid": "97D65442-C53B-437E-8C77-B6E7C745D2AD"
+    },
+    "9B5E5427-EA2F-417E-8C15-6C2A88353B4E": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-08-02T04:03:32.000Z",
+        "uid": "9B5E5427-EA2F-417E-8C15-6C2A88353B4E",
+        "end": "2019-08-09T00:00:00.000Z",
+        "summary": "Psych ",
+        "lastmodified": "2019-08-02T04:03:32.000Z",
+        "dtstamp": "2019-08-08T08:09:12.000Z",
+        "start": "2019-08-08T23:00:00.000Z",
+        "sequence": "0",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "9B767D32-BFB5-41E5-AC56-3FAFFEB33AFF": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-01-14T23:27:46.000Z",
+        "end": "2019-01-15T23:00:00.000Z",
+        "dtstamp": "2019-01-14T23:27:57.000Z",
+        "start": "2019-01-15T22:00:00.000Z",
+        "lastmodified": "2019-01-14T23:27:56.000Z",
+        "sequence": "0",
+        "summary": "Aircon guy come ",
+        "uid": "9B767D32-BFB5-41E5-AC56-3FAFFEB33AFF",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "9D8A0164-8E45-46C4-ABC4-ABEA0D60EA34": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-05-25T08:29:32.000Z",
+        "end": "2021-05-25T08:00:00.000Z",
+        "dtstamp": "2021-05-25T08:54:13.000Z",
+        "start": "2021-05-25T07:00:00.000Z",
+        "lastmodified": "2021-05-25T08:29:32.000Z",
+        "location": "Vocational Language Learning Centre - VLLC\n520 Bourke Street, Melbourne VIC 3000, Australia",
+        "sequence": "0",
+        "summary": "Russian Class",
+        "uid": "9D8A0164-8E45-46C4-ABC4-ABEA0D60EA34",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"520 Bourke Street, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AIIrk0QlPOciK7V96OBARoSCRmsONVa6ELAETfeHRmrHmJAIoABCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINQm91cmtlIFN0cmVldFoDNTIwYhE1MjAgQm91cmtlIFN0cmVldIoBDU1lbGJvdXJuZSBDQkQqKlZvY2F0aW9uYWwgTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudHJlIC0gVkxMQzIRNTIwIEJvdXJrZSBTdHJlZXQyEk1lbGJvdXJuZSBWSUMgMzAwMDIJQXVzdHJhbGlhOC9aaQolCJTznIiu1fejgQESEgkZrDjVWuhCwBE33h0Zqx5iQBiuTZADAaIfPwiU85yIrtX3o4EBGjIKKlZvY2F0aW9uYWwgTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudHJlIC0gVkxMQxAAKgJlbg==",
+                "X-APPLE-RADIUS": 141.1739879461204,
+                "X-TITLE": "Vocational Language Learning Centre - VLLC"
+            },
+            "val": "geo:-37.815272,144.958386"
+        }
+    },
+    "A1D38383-3740-445A-9C9A-8C2CD6A7E3ED": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-10-26T18:35:41.000Z",
+        "end": "2019-10-29T02:15:00.000Z",
+        "dtstamp": "2019-10-26T18:35:42.000Z",
+        "start": "2019-10-29T01:15:00.000Z",
+        "lastmodified": "2019-10-26T18:35:41.000Z",
+        "sequence": "0",
+        "summary": "Meet Sam for lunch",
+        "uid": "A1D38383-3740-445A-9C9A-8C2CD6A7E3ED",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "A3AB14C6-78A3-46AC-A285-247BB401D510": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-04-22T11:27:16.000Z",
+        "end": "2019-04-28T02:30:00.000Z",
+        "dtstamp": "2019-04-22T11:27:17.000Z",
+        "start": "2019-04-28T01:30:00.000Z",
+        "lastmodified": "2019-04-22T11:27:16.000Z",
+        "location": "Melbourne Central Station\nMelbourne VIC, Australia",
+        "sequence": "0",
+        "summary": "Meet Sam for lunch",
+        "uid": "A3AB14C6-78A3-46AC-A285-247BB401D510",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Melbourne VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESgwEIrk0QnJ/zrfe397QkGhIJBzqkYq3nQsARhv8ZStIeYkAiKQoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQzIJTWVsYm91cm5lKhlNZWxib3VybmUgQ2VudHJhbCBTdGF0aW9uMg1NZWxib3VybmUgVklDMglBdXN0cmFsaWE4EA==",
+                "X-APPLE-RADIUS": 154.5850652755418,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Melbourne Central Station"
+            },
+            "val": "geo:-37.809979,144.963170"
+        }
+    },
+    "A5C9C605-9616-446C-93D6-1A7D20313916": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-09-25T09:50:06.000Z",
+        "end": "2019-09-26T03:15:00.000Z",
+        "dtstamp": "2019-09-25T09:50:06.000Z",
+        "start": "2019-09-26T02:15:00.000Z",
+        "lastmodified": "2019-09-25T09:50:06.000Z",
+        "sequence": "0",
+        "summary": "Call recruitment agency back ",
+        "uid": "A5C9C605-9616-446C-93D6-1A7D20313916",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "A5D0D566-7719-4348-B520-899C51457276": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-07T14:00:10.000Z",
+        "end": "2018-09-10T08:00:00.000Z",
+        "dtstamp": "2018-09-07T14:00:12.000Z",
+        "start": "2018-09-10T07:00:00.000Z",
+        "lastmodified": "2018-09-07T14:00:10.000Z",
+        "location": "Elsternwick",
+        "sequence": "0",
+        "summary": "Russian dinner with Richard",
+        "uid": "A5D0D566-7719-4348-B520-899C51457276",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": 0,
+                "X-APPLE-MAPKIT-HANDLE": "CAESeQjZMhCnv9jdkoaG3W4aEglg6udNRfFCwBEKJHILJyBiQCIrCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDMgtFbHN0ZXJud2ljayoLRWxzdGVybndpY2syD0Vsc3Rlcm53aWNrIFZJQzIJQXVzdHJhbGlhOBA=",
+                "X-APPLE-RADIUS": 1402.966216072364,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Elsternwick"
+            },
+            "val": "geo:-37.884928,145.004766"
+        }
+    },
+    "A9EE4DFD-A6E2-4C19-B240-E50361DCD7FE": {
+        "type": "VEVENT",
+        "params": [],
+        "attendee": [
+            {
+                "params": {
+                    "CN": "Ryan C Chew",
+                    "CUTYPE": "INDIVIDUAL",
+                    "PARTSTAT": "ACCEPTED",
+                    "EMAIL": "ryansst386@gmail.com"
+                },
+                "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+            },
+            {
+                "params": {
+                    "CN": "\"Lewis, Christopher\"",
+                    "CUTYPE": "INDIVIDUAL",
+                    "EMAIL": "christopher.lewis@anz.com",
+                    "SCHEDULE-STATUS": 1.1
+                },
+                "val": "mailto:christopher.lewis@anz.com"
+            },
+            {
+                "params": {
+                    "CN": "\"Mwaba, Christopher\"",
+                    "CUTYPE": "INDIVIDUAL",
+                    "EMAIL": "christopher.mwaba@anz.com",
+                    "SCHEDULE-STATUS": 1.1
+                },
+                "val": "mailto:christopher.mwaba@anz.com"
+            }
+        ],
+        "created": "2019-11-07T21:36:08.000Z",
+        "description": "\nHi Ryan,\n\nThank you again for your interest in exploring career opportunities with ANZ Engineering.\n\nCongratulations, you have been invited to participate in the next stage of the ANZx hiring process.\nThere are a number of exciting opportunities across the various tribes that make up ANZx.\n\nWe are pleased to confirm your interview details as per below:\n\nYour ANZ Engineer Interview Confirmation Details:\n\nDate:                                      Wednesday 13th of November 2019\nLocation:                               Upper Ground Floor, Core A, 833 Collins St, Docklands\n\n\nInterview Schedule:           1st Part – Interview (30 min) & Code Exercise (45 min)\nTime:                                    9:00 AM – 10:30 AM (1.5 hours)\nInterviewer:                        Daniel Gonsalves - Portfolio Lead, Group Technology\n                                         Lei Chen - Engineer, Group Technology\n\n\nSelection Committee Interview info:\n\n  *   Please see the below attachment, which will outline the 1st (30 min) part of the Interview.\n\n\nInterview Schedule:           2nd Part - Coding Exercise (1 hour)\nTime:                                   10:30 AM - 11:30 AM (1 hour)\nInterviewer:                      Daniel Gonsalves - Portfolio Lead, Group Technology\n\n\nCoding Exercise info:\n\n  *   You can choose to write your code in any mainstream programming language.\n  *   We are not testing you on detailed knowledge of APIs; we’re more interested in the way you go about solving the problem.\n  *   We like simple and scalable code (don’t over-engineer things, and consider the runtime complexity of your solution).\nFeel free to reach out to Christopher Lewis (christopher.lewis@anz.com<mailto:christopher.lewis@anz.com> ) if would like to book in 15 minutes to discuss the interview format in more detail.\n\nWe look forward to meeting with you.\n\nAt ANZ we believe that the diverse perspectives of our people help us to forge strong connections with our customer, building a workplace where people and communities thrive.\n\nClick here http://www.anz.com/about-us/corporate-sustainability/employees/diversity-inclusion/  to read more about Diversity and Inclusion at ANZ.\n\n\nSome FAQ’s\n\n\n  1.  What role am I interviewing for?\nWe have a common hiring process for all roles in ANZx engineering, so you will be considered for different positions in the respective tribes.\n\n\n  1.  What language will the challenges be in?\nYou do not need to know any specific programming language before attending an interview for a tech position, however high capability and familiarity with a prominent language is a strong indicator of success.\n\n\n  1.  How many interviews will there be?\nFollowing this 2nd round on-site interview for leadership roles an additional 3rd interview may be required with a technology area lead.\n\n\n  1.  When will I hear next steps?\nWe aim to provide feedback within 5-10 business days.\n\nTimeline for feedback after the interview:\nYou will hear from us either by the end of next week or the beginning of the week after next week.\n\n\nKind regards,\n\n\n[Joiners  Movers]Kara Hateley | Journey Fulfilment Specialist\nJoining Our Team Squad | Joiners & Movers Tribe | Talent & Culture\nANZ Centre, Level 7D, 839 Collins Street, Docklands VIC 3008, AUSTRALIA\nPhone:+61 3 8654 4774 | Mobile: +61 438 330 654\nKara.hateley@anz.com<mailto:Kara.hateley@anz.com> | www.anz.com<http://www.anz.com/>\n\n\"This e-mail and any attachments to it (the \"Communication\") is, unless otherwise stated, confidential, may contain copyright material and is for the use only of the intended recipient. If you receive the Communication in error, please notify the sender immediately by return e-mail, delete the Communication and the return e-mail, and do not read, copy, retransmit or otherwise deal with it. Any views expressed in the Communication are those of the individual sender only, unless expressly stated to be those of Australia and New Zealand Banking Group Limited ABN 11 005 357 522, or any of its related entities including ANZ Bank New Zealand Limited (together \"ANZ\"). ANZ does not accept liability in connection with the integrity of or errors in the Communication, computer virus, data corruption, interference or delay arising from or in respect of the Communication.\"\n",
+        "end": "2019-11-13T00:30:00.000Z",
+        "dtstamp": "2019-11-07T21:38:20.000Z",
+        "start": "2019-11-12T22:00:00.000Z",
+        "lastmodified": "2019-11-07T21:38:18.000Z",
+        "location": "Upper Ground Floor, Core A, 833 Collins St, Docklands",
+        "organizer": {
+            "params": {
+                "CN": "Ryan C Chew",
+                "EMAIL": "ryansst386@gmail.com"
+            },
+            "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+        },
+        "sequence": "1",
+        "summary": "ANZx Domain - Interview & Coding Exercise Confirmation – Ryan Chew - Interview & Code Exercise ",
+        "uid": "A9EE4DFD-A6E2-4C19-B240-E50361DCD7FE",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "ABB9E304-8CDE-4292-9FBC-27B0749E1A77": {
+        "type": "VEVENT",
+        "params": [],
+        "conference": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "tel://29/219-227"
+        },
+        "created": "2021-06-17T03:28:58.000Z",
+        "end": "2021-06-18T13:00:00.000Z",
+        "dtstamp": "2021-06-17T03:52:47.000Z",
+        "start": "2021-06-18T08:00:00.000Z",
+        "lastmodified": "2021-06-17T03:28:58.000Z",
+        "location": "29/219-227 Auburn road",
+        "sequence": "0",
+        "summary": "Meet Hugo & Laura",
+        "uid": "ABB9E304-8CDE-4292-9FBC-27B0749E1A77",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "ABD74AC3-A343-4F94-9F30-1CADCA8467DC": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-06T07:49:23.000Z",
+        "end": "2021-03-23T08:30:00.000Z",
+        "dtstamp": "2021-03-12T08:15:16.000Z",
+        "start": "2021-03-23T07:30:00.000Z",
+        "lastmodified": "2021-03-12T08:15:15.000Z",
+        "location": "Melbourne Central Station\nMelbourne VIC, Australia",
+        "sequence": "1",
+        "summary": "Meet with Richard",
+        "uid": "ABD74AC3-A343-4F94-9F30-1CADCA8467DC",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Melbourne VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESogEIrk0QnJ/zrfe397QkGhIJBzqkYq3nQsARhv8ZStIeYkAiNAoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQyoJTWVsYm91cm5lMglNZWxib3VybmUqGU1lbGJvdXJuZSBDZW50cmFsIFN0YXRpb24yDU1lbGJvdXJuZSBWSUMyCUF1c3RyYWxpYTgvWhIKEAicn/Ot97f3tCQYrk2QAwE=",
+                "X-APPLE-RADIUS": 154.5850652755418,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "Melbourne Central Station"
+            },
+            "val": "geo:-37.809979,144.963170"
+        }
+    },
+    "AE1E9AA3-6EF3-488D-A63F-1058E7038952": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-09-28T15:36:37.000Z",
+        "end": "2016-09-28T04:00:00.000Z",
+        "dtstamp": "2017-03-17T01:38:22.000Z",
+        "start": "2016-09-28T03:00:00.000Z",
+        "lastmodified": "2016-09-28T15:36:37.000Z",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 3,
+                "until": "2017-03-19T02:00:00.000Z",
+                "dtstart": "2016-09-28T03:00:00.000Z"
+            },
+            "options": {
+                "freq": 3,
+                "until": "2017-03-19T02:00:00.000Z",
+                "dtstart": "2016-09-28T03:00:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": null,
+                "bynweekday": null,
+                "byhour": [
+                    3
+                ],
+                "byminute": [
+                    0
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 3,
+                    "minute": 0,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "0",
+        "summary": "Ta östro",
+        "uid": "AE1E9AA3-6EF3-488D-A63F-1058E7038952",
+        "recurrences": []
+    },
+    "AF8F59F2-CBAA-4F5E-BE7A-D4E8790D75E2": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-15T08:44:27.000Z",
+        "end": "2021-05-15T05:00:00.000Z",
+        "dtstamp": "2021-03-15T08:44:27.000Z",
+        "start": "2021-05-15T04:00:00.000Z",
+        "lastmodified": "2021-03-15T08:44:27.000Z",
+        "location": "436 North Road\nOrmond, VIC, Australia",
+        "sequence": "0",
+        "summary": "Samuel Holmes’ wedding",
+        "uid": "AF8F59F2-CBAA-4F5E-BE7A-D4E8790D75E2",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Ormond, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES2gEI2TIaEglAKf//pPNCwBE7Zuq/GCFiQCJYCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyBk9ybW9uZDoEMzIwNFIKTm9ydGggUm9hZFoDNDM2Yg40MzYgTm9ydGggUm9hZCoONDM2IE5vcnRoIFJvYWQyDjQzNiBOb3J0aCBSb2FkMg9Pcm1vbmQgVklDIDMyMDQyCUF1c3RyYWxpYTg5QABaJwolEhIJQCn//6TzQsARO2bqvxghYkAY2TIgrJm7m7j0sqKFAZADAQ==",
+                "X-APPLE-RADIUS": 70.58710099828586,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "436 North Road"
+            },
+            "val": "geo:-37.903473,145.034271"
+        }
+    },
+    "B0D8619D-8ED6-48FC-BFAC-A218EBE6AC61": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2014-08-12T14:40:44.000Z",
+        "end": "2014-08-13T02:00:00.000Z",
+        "dtstamp": "2014-08-12T14:42:41.000Z",
+        "start": "2014-08-13T01:00:00.000Z",
+        "lastmodified": "2014-08-12T14:42:40.000Z",
+        "sequence": "1",
+        "summary": "Call restaurant for drinks menu, veg option",
+        "uid": "B0D8619D-8ED6-48FC-BFAC-A218EBE6AC61"
+    },
+    "B1201A8A-04F2-4BC8-8B14-5A8DC1337A74": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-01T08:04:28.000Z",
+        "end": "2018-09-01T08:00:00.000Z",
+        "dtstamp": "2018-09-01T08:04:30.000Z",
+        "start": "2018-09-01T05:00:00.000Z",
+        "lastmodified": "2018-09-01T08:04:28.000Z",
+        "location": "99 Sackville Street\nKew, VIC, Australia",
+        "sequence": "0",
+        "summary": "Cherise’s engagent party",
+        "uid": "B1201A8A-04F2-4BC8-8B14-5A8DC1337A74",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Kew, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESyAEaEgknF2NgHehCwBGnkgGgyiFiQCJrCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDMgNLZXc6BDMxMDFCCU1lbGJvdXJuZVIQU2Fja3ZpbGxlIFN0cmVldFoCOTliEzk5IFNhY2t2aWxsZSBTdHJlZXSKAQlNZWxib3VybmUqEzk5IFNhY2t2aWxsZSBTdHJlZXQyEzk5IFNhY2t2aWxsZSBTdHJlZXQyDEtldyBWSUMgMzEwMTIJQXVzdHJhbGlhODlAAA==",
+                "X-APPLE-RADIUS": 70.58710134949241,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "99 Sackville Street"
+            },
+            "val": "geo:-37.813397,145.055984"
+        }
+    },
+    "B201C4D7-E7F8-4BE8-8902-AD5AB990411C": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-01-27T13:02:45.000Z",
+        "end": "2021-01-28T07:00:00.000Z",
+        "dtstamp": "2021-01-27T13:03:09.000Z",
+        "start": "2021-01-28T06:00:00.000Z",
+        "lastmodified": "2021-01-27T13:03:08.000Z",
+        "sequence": "0",
+        "summary": "Grocery with Carris",
+        "uid": "B201C4D7-E7F8-4BE8-8902-AD5AB990411C",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "B6C60915-F5AE-455B-8D10-EA4DDE9B7415": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2015-02-24T19:03:23.000Z",
+        "end": "2015-02-27T00:00:00.000Z",
+        "dtstamp": "2015-02-26T21:30:20.000Z",
+        "start": "2015-02-26T23:00:00.000Z",
+        "lastmodified": "2015-02-26T21:30:16.000Z",
+        "sequence": "0",
+        "summary": "Set up jap store.",
+        "uid": "B6C60915-F5AE-455B-8D10-EA4DDE9B7415"
+    },
+    "B870E358-FCA6-44A0-B466-672A6B824FA8": {
+        "type": "VEVENT",
+        "params": [],
+        "attendee": [
+            {
+                "params": {
+                    "CN": "Ryan C Chew",
+                    "CUTYPE": "INDIVIDUAL",
+                    "PARTSTAT": "ACCEPTED",
+                    "EMAIL": "ryansst386@gmail.com"
+                },
+                "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+            },
+            {
+                "params": {
+                    "CN": "Ujjwal@ujjwalb.com",
+                    "CUTYPE": "INDIVIDUAL",
+                    "EMAIL": "Ujjwal@ujjwalb.com",
+                    "SCHEDULE-STATUS": 1.1
+                },
+                "val": "mailto:Ujjwal@ujjwalb.com"
+            }
+        ],
+        "created": "2019-09-24T12:27:11.000Z",
+        "end": "2019-09-27T13:00:00.000Z",
+        "dtstamp": "2019-09-24T12:27:12.000Z",
+        "start": "2019-09-27T09:00:00.000Z",
+        "lastmodified": "2019-09-24T12:27:11.000Z",
+        "location": "TBA",
+        "organizer": {
+            "params": {
+                "CN": "Ryan C Chew",
+                "EMAIL": "ryansst386@gmail.com"
+            },
+            "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+        },
+        "sequence": "0",
+        "summary": "Project meeting with Ujjwal + go night ",
+        "uid": "B870E358-FCA6-44A0-B466-672A6B824FA8",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "B8E19DEB-2D4D-458E-AC1B-0BDA9F0AB62B": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-24T03:15:47.000Z",
+        "end": "2021-03-03T02:00:00.000Z",
+        "dtstamp": "2021-02-24T03:15:48.000Z",
+        "start": "2021-03-03T01:00:00.000Z",
+        "lastmodified": "2021-02-24T03:15:47.000Z",
+        "sequence": "0",
+        "summary": "Follow up in 14 days exterminator",
+        "uid": "B8E19DEB-2D4D-458E-AC1B-0BDA9F0AB62B"
+    },
+    "BA77B1BF-4D1E-4672-B941-7D14E2F34AAE": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-09-01T07:56:12.000Z",
+        "end": "2018-09-03T06:00:00.000Z",
+        "dtstamp": "2018-09-01T07:56:14.000Z",
+        "start": "2018-09-03T05:00:00.000Z",
+        "lastmodified": "2018-09-01T07:56:12.000Z",
+        "sequence": "0",
+        "summary": "Meet Natasha for coffee",
+        "uid": "BA77B1BF-4D1E-4672-B941-7D14E2F34AAE",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "CAC9154C-FCE0-4A27-B1D9-6734EFC118A2": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-19T04:16:24.000Z",
+        "end": "2021-03-22T02:30:00.000Z",
+        "dtstamp": "2021-03-19T04:16:25.000Z",
+        "start": "2021-03-22T01:30:00.000Z",
+        "lastmodified": "2021-03-19T04:16:24.000Z",
+        "location": "Level 6, 246 Bourke Street, Melbourne",
+        "sequence": "0",
+        "summary": "Go in to Suzanne Johnston",
+        "uid": "CAC9154C-FCE0-4A27-B1D9-6734EFC118A2",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "CE4C3002-B5C2-45E0-A5A4-30B4AB1ECF8C": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2020-01-14T08:15:43.000Z",
+        "end": "2020-01-17T08:00:00.000Z",
+        "dtstamp": "2020-01-14T08:15:43.000Z",
+        "start": "2020-01-17T05:00:00.000Z",
+        "lastmodified": "2020-01-14T08:15:43.000Z",
+        "sequence": "0",
+        "summary": "Meet roger",
+        "uid": "CE4C3002-B5C2-45E0-A5A4-30B4AB1ECF8C",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "D0956D27-D3B5-441A-ACCD-76CA0DEBC080": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-07-17T12:52:10.000Z",
+        "end": "2019-06-14T14:00:00.000Z",
+        "dtstamp": "2019-07-17T12:52:11.000Z",
+        "start": "2019-06-13T14:00:00.000Z",
+        "lastmodified": "2019-07-17T12:52:10.000Z",
+        "sequence": "0",
+        "summary": "Jas breakup",
+        "uid": "D0956D27-D3B5-441A-ACCD-76CA0DEBC080",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "DD640E45-248A-42D4-B3D3-24EE7A8887AB": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-04-15T13:49:32.000Z",
+        "end": "2021-04-17T04:20:00.000Z",
+        "dtstamp": "2021-04-15T13:49:32.000Z",
+        "start": "2021-04-17T03:20:00.000Z",
+        "lastmodified": "2021-04-15T13:49:32.000Z",
+        "sequence": "0",
+        "summary": "Dentist",
+        "uid": "DD640E45-248A-42D4-B3D3-24EE7A8887AB",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=5C036FFA-7200-B052-3255-56EB3250D15E"
+        }
+    },
+    "E27CB18C-0E3E-42BE-BC95-B44AB6C136DE": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-04-22T11:27:40.000Z",
+        "end": "2019-04-26T09:00:00.000Z",
+        "dtstamp": "2019-04-22T11:27:47.000Z",
+        "start": "2019-04-26T08:00:00.000Z",
+        "lastmodified": "2019-04-22T11:27:46.000Z",
+        "sequence": "0",
+        "summary": "Meet Belle for Dinner",
+        "uid": "E27CB18C-0E3E-42BE-BC95-B44AB6C136DE",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "E2F083BA-5DE5-40EC-8828-134549025803": {
+        "type": "VEVENT",
+        "params": [],
+        "start": "2016-05-09T00:00:00.000Z",
+        "end": "2016-05-09T03:00:00.000Z",
+        "dtstamp": "2016-05-07T17:10:55.000Z",
+        "uid": "E2F083BA-5DE5-40EC-8828-134549025803",
+        "created": "2016-05-06T16:03:15.000Z",
+        "description": "Bring passport and forms",
+        "lastmodified": "2016-05-07T17:10:56.000Z",
+        "location": {
+            "params": {
+                "X-SUNRISE-CITY": "Carlton",
+                "X-SUNRISE-STATE": "VIC",
+                "X-SUNRISE-COUNTRY": "AU",
+                "X-SUNRISE-LOCATION-LAT": -37.80421949999999,
+                "X-SUNRISE-LOCATION-LNG": 144.9662716
+            },
+            "val": "Australia Post - Carlton South Post Office, Carlton, VIC, AU"
+        },
+        "sequence": "1",
+        "status": "CONFIRMED",
+        "summary": "Renew passport at post office"
+    },
+    "E3C85421-C15D-4843-8590-83CE11E4C884": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2015-02-08T18:57:27.000Z",
+        "end": "2015-02-09T02:00:00.000Z",
+        "dtstamp": "2015-02-08T18:57:31.000Z",
+        "start": "2015-02-09T01:00:00.000Z",
+        "lastmodified": "2015-02-08T18:57:27.000Z",
+        "sequence": "0",
+        "summary": "typoの鞄を買う",
+        "uid": "E3C85421-C15D-4843-8590-83CE11E4C884"
+    },
+    "E57FAF7B-2A8D-483A-8AE0-F155F414BCD3": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-08-14T12:35:27.000Z",
+        "end": "2018-11-20T12:00:00.000Z",
+        "dtstamp": "2018-08-14T12:35:47.000Z",
+        "start": "2018-11-20T09:00:00.000Z",
+        "lastmodified": "2018-08-14T12:35:46.000Z",
+        "sequence": "0",
+        "summary": "Comedy nonsense",
+        "uid": "E57FAF7B-2A8D-483A-8AE0-F155F414BCD3",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "E8ADAC6B-8C5B-45E8-BCD0-EF2B1E6679BF": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-24T00:30:51.000Z",
+        "end": "2021-02-26T08:30:00.000Z",
+        "dtstamp": "2021-02-24T00:30:53.000Z",
+        "start": "2021-02-26T07:30:00.000Z",
+        "lastmodified": "2021-02-24T00:30:51.000Z",
+        "location": "Flagstaff Gardens\n309-311 William Street, West Melbourne VIC 3003, Australia",
+        "sequence": "0",
+        "summary": "UL Night",
+        "uid": "E8ADAC6B-8C5B-45E8-BCD0-EF2B1E6679BF",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"309-311 William Street, West Melbourne VIC 3003, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESywIIrk0Qpq+clKeSndXoARoSCaWeBaG850LAEdb8+EuLHmJAIoMBCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyDldlc3QgTWVsYm91cm5lOgQzMDAzUg5XaWxsaWFtIFN0cmVldFoHMzA5LTMxMWIWMzA5LTMxMSBXaWxsaWFtIFN0cmVldHIRRmxhZ3N0YWZmIEdhcmRlbnMqEUZsYWdzdGFmZiBHYXJkZW5zMhYzMDktMzExIFdpbGxpYW0gU3RyZWV0MhdXZXN0IE1lbGJvdXJuZSBWSUMgMzAwMzIJQXVzdHJhbGlhOC9aUAolCKavnJSnkp3V6AESEgmlngWhvOdCwBHW/PhLix5iQBiuTZADAaIfJgimr5yUp5Kd1egBGhkKEUZsYWdzdGFmZiBHYXJkZW5zEAAqAmVu",
+                "X-APPLE-RADIUS": 141.5933866258144,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "Flagstaff Gardens"
+            },
+            "val": "geo:-37.810444,144.954504"
+        }
+    },
+    "EAFA278D-029B-491E-BE64-04D7312AE424": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-07-18T01:01:08.000Z",
+        "uid": "EAFA278D-029B-491E-BE64-04D7312AE424",
+        "end": "2018-07-19T08:30:00.000Z",
+        "summary": "Lunch with Libby",
+        "start": "2018-07-19T04:00:00.000Z",
+        "dtstamp": "2018-07-18T01:01:44.000Z",
+        "sequence": "0"
+    },
+    "EB881C40-33D3-4E46-A7F0-D90C100CA101": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-03-11T01:55:44.000Z",
+        "description": "Aurora office",
+        "end": "2021-04-26T03:00:00.000Z",
+        "dtstamp": "2021-03-11T01:56:01.000Z",
+        "start": "2021-04-26T02:00:00.000Z",
+        "lastmodified": "2021-03-11T01:56:00.000Z",
+        "location": "37 Little La Trobe Street\nMelbourne, VIC, Australia",
+        "sequence": "0",
+        "summary": "Dermatologist Appointment",
+        "uid": "EB881C40-33D3-4E46-A7F0-D90C100CA101",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Melbourne, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESrAII2TIaEgmfWRKgpudCwBEaUwuAzB5iQCKQAQoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQyoJTWVsYm91cm5lMglNZWxib3VybmU6BDMwMDBCDU1lbGJvdXJuZSBDQkRSFkxpdHRsZSBMYSBUcm9iZSBTdHJlZXRaAjM3YhkzNyBMaXR0bGUgTGEgVHJvYmUgU3RyZWV0igENTWVsYm91cm5lIENCRCoZMzcgTGl0dGxlIExhIFRyb2JlIFN0cmVldDIZMzcgTGl0dGxlIExhIFRyb2JlIFN0cmVldDISTWVsYm91cm5lIFZJQyAzMDAwMglBdXN0cmFsaWE4OUAAWicKJRISCZ9ZEqCm50LAERpTC4DMHmJAGNkyIMjZy7Tj0PaznAGQAwE=",
+                "X-APPLE-RADIUS": 70.58710136224677,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "37 Little La Trobe Street"
+            },
+            "val": "geo:-37.809773,144.962463"
+        }
+    },
+    "ECB7239E-C293-4B45-AD2E-7EF1E4790AD3": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-24T05:38:32.000Z",
+        "description": "agenda://note/9369F5D7-6142-4ED9-B9D4-394EFCE3609B",
+        "end": "2021-02-27T01:00:00.000Z",
+        "dtstamp": "2021-02-24T07:23:39.000Z",
+        "start": "2021-02-27T00:00:00.000Z",
+        "lastmodified": "2021-02-24T07:23:38.000Z",
+        "location": "The Pole Room\n277 Flinders Lane, Melbourne VIC 3000, Australia",
+        "sequence": "0",
+        "summary": "Pole",
+        "uid": "ECB7239E-C293-4B45-AD2E-7EF1E4790AD3",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"277 Flinders Lane, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESvgIIrk0QzbbCxazh9dXHARoSCdWd3RCZ6ELAEUTKBR3jHmJAIogBCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINRmxpbmRlcnMgTGFuZVoDMjc3YhEyNzcgRmxpbmRlcnMgTGFuZYoBDU1lbGJvdXJuZSBDQkSaAQUIARIBNioNVGhlIFBvbGUgUm9vbTIRMjc3IEZsaW5kZXJzIExhbmUyEk1lbGJvdXJuZSBWSUMgMzAwMDIJQXVzdHJhbGlhOC9aTAolCM22wsWs4fXVxwESEgnVnd0QmehCwBFEygUd4x5iQBiuTZADAaIfIgjNtsLFrOH11ccBGhUKDVRoZSBQb2xlIFJvb20QACoCZW4=",
+                "X-APPLE-RADIUS": 141.1739879176963,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "The Pole Room"
+            },
+            "val": "geo:-37.817171,144.965224"
+        }
+    },
+    "EEE0A9E3-312D-4139-B4F1-2196BAE8EF55": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2015-12-08T17:54:17.000Z",
+        "end": "2015-12-09T00:00:00.000Z",
+        "dtstamp": "2015-12-08T17:55:16.000Z",
+        "start": "2015-12-08T23:00:00.000Z",
+        "lastmodified": "2015-12-08T17:55:14.000Z",
+        "location": "このうちに",
+        "sequence": "0",
+        "summary": "携帯探し",
+        "uid": "EEE0A9E3-312D-4139-B4F1-2196BAE8EF55"
+    },
+    "F14F6F27-C33F-4FC2-9557-B2713F360E62": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-10-06T17:39:31.000Z",
+        "end": "2019-10-13T07:30:00.000Z",
+        "dtstamp": "2019-10-06T17:39:32.000Z",
+        "start": "2019-10-12T12:30:00.000Z",
+        "lastmodified": "2019-10-06T17:39:31.000Z",
+        "location": "819/528 Swanston Street\nCarlton, VIC, Australia",
+        "sequence": "0",
+        "summary": "Dakota coming ",
+        "uid": "F14F6F27-C33F-4FC2-9557-B2713F360E62",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8gEI2TIaEgl1YDBPeOZCwBH01AVG1h5iQCJrCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoHODE5LzUyOGIXODE5LzUyOCBTd2Fuc3RvbiBTdHJlZXQqFzgxOS81MjggU3dhbnN0b24gU3RyZWV0Mhc4MTkvNTI4IFN3YW5zdG9uIFN0cmVldDIQQ2FybHRvbiBWSUMgMzA1MzIJQXVzdHJhbGlhODlAAloZChcSEgl1YDBPeOZCwBH01AVG1h5iQBjZMg==",
+                "X-APPLE-RADIUS": 70.58710139833462,
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "819/528 Swanston Street"
+            },
+            "val": "geo:-37.800547,144.963656"
+        }
+    },
+    "F163E454-0D63-4E31-93B3-4DE153F70410": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2020-10-09T17:34:30.000Z",
+        "end": "2020-10-10T04:00:00.000Z",
+        "dtstamp": "2020-10-09T17:34:31.000Z",
+        "start": "2020-10-10T02:00:00.000Z",
+        "lastmodified": "2020-10-09T17:34:30.000Z",
+        "location": "819/528 Swanston Street\nCarlton, VIC, Australia",
+        "sequence": "0",
+        "summary": "Board games",
+        "uid": "F163E454-0D63-4E31-93B3-4DE153F70410",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Carlton, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8gEI2TIaEgl1YDBPeOZCwBH01AVG1h5iQCJrCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyB0Nhcmx0b246BDMwNTNSD1N3YW5zdG9uIFN0cmVldFoHODE5LzUyOGIXODE5LzUyOCBTd2Fuc3RvbiBTdHJlZXQqFzgxOS81MjggU3dhbnN0b24gU3RyZWV0Mhc4MTkvNTI4IFN3YW5zdG9uIFN0cmVldDIQQ2FybHRvbiBWSUMgMzA1MzIJQXVzdHJhbGlhODlAAloZChcSEgl1YDBPeOZCwBH01AVG1h5iQBjZMg==",
+                "X-APPLE-REFERENCEFRAME": 0,
+                "X-TITLE": "819/528 Swanston Street"
+            },
+            "val": "geo:-37.800547,144.963656"
+        }
+    },
+    "F2D6FE40-7856-4331-841E-B0DC979CACF7": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-10T03:21:01.000Z",
+        "end": "2021-02-13T11:00:00.000Z",
+        "dtstamp": "2021-02-10T03:21:42.000Z",
+        "start": "2021-02-13T05:00:00.000Z",
+        "lastmodified": "2021-02-10T03:21:41.000Z",
+        "sequence": "0",
+        "summary": "Meet up with Sam and Justin",
+        "uid": "F2D6FE40-7856-4331-841E-B0DC979CACF7",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "F6611336-6D28-4CCB-886D-1C83B8133D38": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-02-18T03:54:08.000Z",
+        "end": "2021-02-23T07:30:00.000Z",
+        "dtstamp": "2021-02-18T04:06:45.000Z",
+        "start": "2021-02-23T06:30:00.000Z",
+        "lastmodified": "2021-02-18T04:06:44.000Z",
+        "location": "Vocational Language Learning Centre - VLLC\n520 Bourke Street, Melbourne VIC 3000, Australia",
+        "rrule": {
+            "_string": null,
+            "_cache": {
+                "all": false,
+                "before": [],
+                "after": [],
+                "between": []
+            },
+            "origOptions": {
+                "freq": 2,
+                "until": "2021-03-09T12:59:59.000Z",
+                "dtstart": "2021-02-23T06:30:00.000Z"
+            },
+            "options": {
+                "freq": 2,
+                "until": "2021-03-09T12:59:59.000Z",
+                "dtstart": "2021-02-23T06:30:00.000Z",
+                "interval": 1,
+                "wkst": 0,
+                "count": null,
+                "tzid": null,
+                "bysetpos": null,
+                "bymonth": null,
+                "bymonthday": [],
+                "bynmonthday": [],
+                "byyearday": null,
+                "byweekno": null,
+                "byweekday": [
+                    1
+                ],
+                "bynweekday": null,
+                "byhour": [
+                    6
+                ],
+                "byminute": [
+                    30
+                ],
+                "bysecond": [
+                    0
+                ],
+                "byeaster": null
+            },
+            "timeset": [
+                {
+                    "hour": 6,
+                    "minute": 30,
+                    "second": 0,
+                    "millisecond": 0
+                }
+            ]
+        },
+        "sequence": "1",
+        "summary": "Russian class",
+        "uid": "F6611336-6D28-4CCB-886D-1C83B8133D38",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"520 Bourke Street, Melbourne VIC 3000, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAES8AIIrk0QlPOciK7V96OBARoSCRmsONVa6ELAETfeHRmrHmJAIoABCglBdXN0cmFsaWESAkFVGghWaWN0b3JpYSIDVklDKglNZWxib3VybmUyCU1lbGJvdXJuZToEMzAwMEINTWVsYm91cm5lIENCRFINQm91cmtlIFN0cmVldFoDNTIwYhE1MjAgQm91cmtlIFN0cmVldIoBDU1lbGJvdXJuZSBDQkQqKlZvY2F0aW9uYWwgTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudHJlIC0gVkxMQzIRNTIwIEJvdXJrZSBTdHJlZXQyEk1lbGJvdXJuZSBWSUMgMzAwMDIJQXVzdHJhbGlhOC9aaQolCJTznIiu1fejgQESEgkZrDjVWuhCwBE33h0Zqx5iQBiuTZADAaIfPwiU85yIrtX3o4EBGjIKKlZvY2F0aW9uYWwgTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudHJlIC0gVkxMQxAAKgJlbg==",
+                "X-APPLE-RADIUS": 141.1739879461204,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "Vocational Language Learning Centre - VLLC"
+            },
+            "val": "geo:-37.815272,144.958386"
+        }
+    },
+    "F6ECC3AE-B48D-4F7C-913B-8E9C9AD107F5": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-08-03T11:48:12.000Z",
+        "uid": "F6ECC3AE-B48D-4F7C-913B-8E9C9AD107F5",
+        "end": "2019-08-09T00:00:00.000Z",
+        "summary": "Psych ",
+        "lastmodified": "2019-08-03T11:48:12.000Z",
+        "dtstamp": "2019-08-08T08:09:13.000Z",
+        "start": "2019-08-08T23:00:00.000Z",
+        "sequence": "0",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        }
+    },
+    "FA3D3AE8-5839-4173-9E7E-F4F9BE0082F0": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2019-11-07T23:21:39.000Z",
+        "end": "2019-11-10T06:00:00.000Z",
+        "dtstamp": "2019-11-13T05:45:46.000Z",
+        "start": "2019-11-10T05:00:00.000Z",
+        "lastmodified": "2019-11-07T23:21:39.000Z",
+        "location": "Melbourne Central Station\nMelbourne VIC, Australia",
+        "sequence": "0",
+        "summary": "Møter Richard ",
+        "uid": "FA3D3AE8-5839-4173-9E7E-F4F9BE0082F0",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=52FE5C82-7965-2367-81AF-49F312135757"
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Melbourne VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESqAEIrk0QnJ/zrfe397QkGhIJBzqkYq3nQsARhv8ZStIeYkAiKQoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQzIJTWVsYm91cm5lKhlNZWxib3VybmUgQ2VudHJhbCBTdGF0aW9uMg1NZWxib3VybmUgVklDMglBdXN0cmFsaWE4L1ojCiEInJ/zrfe397QkEhIJBzqkYq3nQsARhv8ZStIeYkAYrk0=",
+                "X-APPLE-RADIUS": 154.5850652755418,
+                "X-APPLE-REFERENCEFRAME": 1,
+                "X-TITLE": "Melbourne Central Station"
+            },
+            "val": "geo:-37.809979,144.963170"
+        }
+    },
+    "FB599251-E26B-4484-9DF1-D1F9A673BB1A": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2016-10-10T23:29:19.000Z",
+        "end": "2016-10-22T12:55:00.000Z",
+        "dtstamp": "2016-10-10T23:29:20.000Z",
+        "start": "2016-10-22T06:30:00.000Z",
+        "lastmodified": "2016-10-10T23:29:19.000Z",
+        "location": "Hugoさんの家",
+        "sequence": "0",
+        "summary": "Hugoさんの誕生会",
+        "uid": "FB599251-E26B-4484-9DF1-D1F9A673BB1A"
+    },
+    "FC2FBD34-2340-43DF-AD29-988200030736": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2021-05-11T04:37:58.000Z",
+        "end": "2021-06-28T17:15:00.000Z",
+        "dtstamp": "2021-05-11T04:37:59.000Z",
+        "start": "2021-06-28T16:15:00.000Z",
+        "lastmodified": "2021-05-11T04:37:58.000Z",
+        "location": "24 Collins Street\nMelbourne, VIC, Australia",
+        "sequence": "0",
+        "summary": "Dermatologist Appt",
+        "uid": "FC2FBD34-2340-43DF-AD29-988200030736",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": ""
+        },
+        "APPLE-STRUCTURED-LOCATION": {
+            "params": {
+                "VALUE": "URI",
+                "X-ADDRESS": "\"Melbourne, VIC, Australia\"",
+                "X-APPLE-MAPKIT-HANDLE": "CAESiwII2TIaEgn8d9ifH+hCwBEc+AeAIB9iQCKAAQoJQXVzdHJhbGlhEgJBVRoIVmljdG9yaWEiA1ZJQyoJTWVsYm91cm5lMglNZWxib3VybmU6BDMwMDBCDU1lbGJvdXJuZSBDQkRSDkNvbGxpbnMgU3RyZWV0WgIyNGIRMjQgQ29sbGlucyBTdHJlZXSKAQ1NZWxib3VybmUgQ0JEKhEyNCBDb2xsaW5zIFN0cmVldDIRMjQgQ29sbGlucyBTdHJlZXQyEk1lbGJvdXJuZSBWSUMgMzAwMDIJQXVzdHJhbGlhODlAAFomCiQSEgn8d9ifH+hCwBEc+AeAIB9iQBjZMiDe3auj0orH3m2QAwE=",
+                "X-APPLE-RADIUS": 70.58710134402428,
+                "X-TITLE": "24 Collins Street"
+            },
+            "val": "geo:-37.813465,144.972717"
+        }
+    },
+    "FE1A8CA1-A218-4139-AFFB-D016B00ED0EF": {
+        "type": "VEVENT",
+        "params": [],
+        "created": "2018-03-19T10:58:24.000Z",
+        "uid": "FE1A8CA1-A218-4139-AFFB-D016B00ED0EF",
+        "end": "2018-03-24T10:00:00.000Z",
+        "summary": "Board games with Logan",
+        "start": "2018-03-24T07:00:00.000Z",
+        "dtstamp": "2018-03-21T07:09:17.000Z",
+        "location": "Room 915",
+        "sequence": "0"
+    },
+    "FF4C8357-A123-4DFE-B796-A34D15508708": {
+        "type": "VEVENT",
+        "params": [],
+        "conference": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "tel://0431767708"
+        },
+        "created": "2021-04-15T13:49:16.000Z",
+        "description": "0431767708",
+        "end": "2021-04-16T07:30:00.000Z",
+        "dtstamp": "2021-04-15T13:49:50.000Z",
+        "start": "2021-04-16T06:30:00.000Z",
+        "lastmodified": "2021-04-15T13:49:50.000Z",
+        "location": "220 Spencer St",
+        "sequence": "0",
+        "summary": "Lashes",
+        "uid": "FF4C8357-A123-4DFE-B796-A34D15508708",
+        "url": {
+            "params": {
+                "VALUE": "URI"
+            },
+            "val": "sms://open?message-guid=9982D17A-3C25-9036-D2DF-ADDA9857DCF1"
+        }
+    },
+    "258C3D9B-B829-ABC0-F47D-D9BA25A9470F": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "258C3D9B-B829-ABC0-F47D-D9BA25A9470F",
+        "summary": "$19.99 Ray-ban&Oakley Black Friday Deals Online.",
+        "sequence": "0",
+        "url": "http://t.cn/RfCSatd",
+        "location": "",
+        "description": "http://t.cn/RfCSatd $19.99 Ray-ban&Oakley Black Friday Deals Online.",
+        "start": "2016-11-23T13:00:00.000Z",
+        "end": "2016-11-29T13:00:00.000Z",
+        "lastmodified": "2016-11-25T18:15:37.000Z",
+        "attendee": [
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryanss@icloud.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryanss@me.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryansser@gmail.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryansshrimpton@icloud.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryanssiegel@gmail.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryanssk826@icloud.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryanssmith7@me.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryansss@icloud.com"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true,
+                    "CN": "Ryan C Chew",
+                    "EMAIL": "ryansst386@gmail.com"
+                },
+                "val": "/aMTQwMzM3NTgyNTE0MDMzNyhwh22QxnZ_BEoQN529c5kpUEGnodVFDoCW8CwNAt-b/principal/"
+            },
+            {
+                "params": {
+                    "ROLE": "REQ-PARTICIPANT",
+                    "PARTSTAT": "NEEDS-ACTION",
+                    "RSVP": true
+                },
+                "val": "mailto:ryanst@icloud.com"
+            },
+            {
+                "params": {
+                    "ROLE": "CHAIR",
+                    "PARTSTAT": "ACCEPTED",
+                    "CN": "\"荆侍栖\"",
+                    "EMAIL": "1069020164188265930212376@8765456.tk"
+                },
+                "val": "/aMTAyNTA2MDA2NDkxMDI1MCV4FGv3UxEeZwM1et2nmzvMAEpLVHyOxwHGXGP4dWmp/principal/"
+            }
+        ],
+        "organizer": {
+            "params": {
+                "CN": "\"荆侍栖\"",
+                "EMAIL": "1069020164188265930212376@8765456.tk"
+            },
+            "val": "/aMTAyNTA2MDA2NDkxMDI1MCV4FGv3UxEeZwM1et2nmzvMAEpLVHyOxwHGXGP4dWmp/principal/"
+        },
+        "dtstamp": "2016-11-25T18:15:44.000Z"
+    },
+    "49898.677059600894": {
+        "type": "VTIMEZONE",
+        "params": [],
+        "tzid": "Asia/Kuala_Lumpur",
+        "LIC-LOCATION": "Asia/Kuala_Lumpur",
+        "18630.56082931438": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1900-12-31T14:00:00.000Z",
+            "rdate": "19010101T000000",
+            "tzname": "SMT",
+            "tzoffsetfrom": "+064646",
+            "tzoffsetto": "+065525"
+        },
+        "67036.89704885236": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1905-05-31T14:00:00.000Z",
+            "rdate": "19050601T000000",
+            "tzname": "+07",
+            "tzoffsetfrom": "+065525",
+            "tzoffsetto": "+0700"
+        },
+        "8054.346623755348": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1932-12-31T14:00:00.000Z",
+            "rdate": "19330101T000000",
+            "tzname": "+0720",
+            "tzoffsetfrom": "+0700",
+            "tzoffsetto": "+0720"
+        },
+        "88017.17005290122": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1935-12-31T14:00:00.000Z",
+            "rdate": "19360101T000000",
+            "tzname": "+0720",
+            "tzoffsetfrom": "+0720",
+            "tzoffsetto": "+0720"
+        },
+        "96125.67442673541": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1941-08-31T14:00:00.000Z",
+            "rdate": "19410901T000000",
+            "tzname": "+0730",
+            "tzoffsetfrom": "+0720",
+            "tzoffsetto": "+0730"
+        },
+        "85693.8934023338": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1942-02-15T13:00:00.000Z",
+            "rdate": "19420216T000000",
+            "tzname": "+09",
+            "tzoffsetfrom": "+0730",
+            "tzoffsetto": "+0900"
+        },
+        "68420.76193362918": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1945-09-11T14:00:00.000Z",
+            "rdate": "19450912T000000",
+            "tzname": "+0730",
+            "tzoffsetfrom": "+0900",
+            "tzoffsetto": "+0730"
+        },
+        "73037.64590499997": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1981-12-31T13:00:00.000Z",
+            "rdate": "19820101T000000",
+            "tzname": "+08",
+            "tzoffsetfrom": "+0730",
+            "tzoffsetto": "+0800"
+        }
+    },
+    "76161.99158739338": {
+        "type": "VTIMEZONE",
+        "params": [],
+        "tzid": "Australia/Melbourne",
+        "LIC-LOCATION": "Australia/Melbourne",
+        "97938.48097269768": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1895-01-31T14:00:00.000Z",
+            "rdate": "18950201T000000",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+093952",
+            "tzoffsetto": "+1000"
+        },
+        "53960.52669507159": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1916-12-31T14:01:00.000Z",
+            "rdate": [
+                "19170101T000100",
+                "19420101T020000",
+                "19420927T020000",
+                "19431003T020000",
+                "20000827T020000"
+            ],
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "26959.8747427497": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1917-03-24T16:00:00.000Z",
+            "rdate": [
+                "19170325T020000",
+                "19420329T020000",
+                "19720227T030000",
+                "20060402T020000",
+                "20070325T030000"
+            ],
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "23353.05162400665": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1943-03-27T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19440325T150000Z;BYMONTH=3;BYDAY=-1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "2214.5567184680413": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1970-12-31T14:00:00.000Z",
+            "rdate": "19710101T000000",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1000"
+        },
+        "58675.881118369565": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1971-10-30T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19851026T160000Z;BYMONTH=10;BYDAY=-1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "62595.32215203063": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1973-03-03T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19850302T160000Z;BYMONTH=3;BYDAY=1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "31357.1023895753": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1986-03-15T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19900317T160000Z;BYMONTH=3;BYDAY=3SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "72498.51570824152": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1986-10-18T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19871017T160000Z;BYMONTH=10;BYDAY=3SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "2082.108545143946": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1988-10-29T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19991030T160000Z;BYMONTH=10;BYDAY=-1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "29560.958937765314": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1991-03-02T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19940305T160000Z;BYMONTH=3;BYDAY=1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "895.0149966493016": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1995-03-25T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=20050326T160000Z;BYMONTH=3;BYDAY=-1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "49419.19107894244": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "2001-10-27T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=20071027T160000Z;BYMONTH=10;BYDAY=-1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "46162.77268593236": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "2008-04-05T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "37305.02534569708": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "2008-10-04T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        }
+    },
+    "10015.348606527485": {
+        "type": "VTIMEZONE",
+        "params": [],
+        "tzid": "Australia/Hobart",
+        "LIC-LOCATION": "Australia/Hobart",
+        "21026.17810783487": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1895-08-31T14:00:00.000Z",
+            "rdate": "18950901T000000",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+094916",
+            "tzoffsetto": "+1000"
+        },
+        "48646.02739160093": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1916-09-30T16:00:00.000Z",
+            "rdate": [
+                "19161001T020000",
+                "19420101T020000",
+                "19420927T020000",
+                "19431003T020000",
+                "19671001T020000",
+                "19861019T020000",
+                "19871025T020000",
+                "20000827T020000"
+            ],
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "37982.5014808465": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1917-01-31T13:00:00.000Z",
+            "rdate": "19170201T000000",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1100"
+        },
+        "36609.80761270238": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1917-03-24T16:00:00.000Z",
+            "rdate": [
+                "19170325T020000",
+                "19420329T020000",
+                "19680331T030000",
+                "19720227T030000",
+                "20060402T020000",
+                "20070325T030000"
+            ],
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "72904.62880163598": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1943-03-27T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19440325T150000Z;BYMONTH=3;BYDAY=-1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "23188.422446933688": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1966-12-31T14:00:00.000Z",
+            "rdate": "19670101T000000",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1000"
+        },
+        "19160.97034464963": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1968-10-26T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19851026T160000Z;BYMONTH=10;BYDAY=-1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "27855.650201474713": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1969-03-08T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19710313T160000Z;BYMONTH=3;BYDAY=2SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "98313.8150500777": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1973-03-03T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19810228T160000Z;BYMONTH=3;BYDAY=1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "92781.38062889056": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1982-03-27T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19830326T160000Z;BYMONTH=3;BYDAY=-1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "73422.29699093521": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1984-03-03T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19860301T160000Z;BYMONTH=3;BYDAY=1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "14400.165652907071": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1987-03-14T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19900317T160000Z;BYMONTH=3;BYDAY=3SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "53567.064834847166": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1988-10-29T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19901027T160000Z;BYMONTH=10;BYDAY=-1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "42797.08566388476": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "1991-03-30T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=20050326T160000Z;BYMONTH=3;BYDAY=-1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        },
+        "22119.925732517022": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "1991-10-05T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;UNTIL=19991002T160000Z;BYMONTH=10;BYDAY=1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "99839.42111595492": {
+            "type": "DAYLIGHT",
+            "params": [],
+            "start": "2001-10-06T16:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU",
+            "tzname": "AEDT",
+            "tzoffsetfrom": "+1000",
+            "tzoffsetto": "+1100"
+        },
+        "70179.39633786315": {
+            "type": "STANDARD",
+            "params": [],
+            "start": "2008-04-05T17:00:00.000Z",
+            "rrule": "RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU",
+            "tzname": "AEST",
+            "tzoffsetfrom": "+1100",
+            "tzoffsetto": "+1000"
+        }
+    }
+}

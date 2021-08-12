@@ -70,3 +70,5 @@ dist
 !.yarn/versions
 
 config.ts
+
+db/database.sqlite
