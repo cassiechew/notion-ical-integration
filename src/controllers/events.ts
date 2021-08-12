@@ -17,33 +17,32 @@ const getCal = async (req: Request, res: Response) => {
   })();
 };
 
-const createAll = async (req: Request, res: Response) => {
+const createAll = async (_: Request, res: Response) => {
   const responses = await Promise.all(
     config.caladdr.map((addr) => axios(addr))
   );
 
   const parsedResponses = responses
-    .map((response) => ical.parseICS(response.data))
+    .map((response : Response) => ical.parseICS(response.data))
     .map((ics) => Object.values(ics))
     .reduce((acc, val) => [...acc, ...val], []);
 
   const events = Object.values(parsedResponses)
     .filter((event: any) => event.type === "VEVENT")
     .map((event: any) => ({
-      uid: event.uid,
+      uid:     event.uid,
       summary: event.summary,
-      start: event.start,
-      end: event.end,
+      start:   event.start,
+      end:     event.end,
     }));
 
   await Promise.all(
     events
     .filter(async e => {
       const ev = db.sequelize.models.EventsModel.findOne({ where: { calId: e.uid }})
-      
       return !!ev
     })
-    .map(async (e) => {
+    .map(async e => {
       const page = await client.pages.create({
         parent: {
           database_id: config.dbkey,

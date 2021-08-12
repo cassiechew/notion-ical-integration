@@ -1,22 +1,4 @@
-import db from './db';
-import { Sequelize, DataTypes, Model } from 'sequelize';
-
-
-// class EventModel extends Model {}
-
-// EventModel.init({
-//   id: {
-//     type: DataTypes.STRING,
-//     allowNull: false
-//   },
-//   calId: {
-//       type: DataTypes.STRING,
-//       allowNull: false
-//   }
-// }, {
-//   db,
-//   modelName: 'EventModel'
-// });
+import { DataTypes } from 'sequelize';
 
 export default function(sequelize : any) {
   sequelize.define('EventsModel', {

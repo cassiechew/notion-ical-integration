@@ -26,6 +26,7 @@ fs
     db[model.name] = model;
   });
 
+// Enable if object association every happens
 // Object.keys(db).forEach(modelName => {
 //   if (db[modelName].hasOwnProperty('associate')) {
 //     db[modelName].associate(db);
@@ -35,8 +36,6 @@ fs
 db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 
-// Sync all models that are not
-// already in the database
 sequelize.sync() 
 
 EventsModel(sequelize);
