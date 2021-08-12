@@ -1,3 +1,4 @@
 module.exports = {
-    apikey: "Your notion key"
+    apikey: "Your notion key",
+    dbkey: "notiondbkeything"
 }
