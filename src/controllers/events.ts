@@ -23,7 +23,7 @@ const createAll = async (_: Request, res: Response) => {
   );
 
   const parsedResponses = responses
-    .map((response : Response) => ical.parseICS(response.data))
+    .map((response) => ical.parseICS(response.data))
     .map((ics) => Object.values(ics))
     .reduce((acc, val) => [...acc, ...val], []);
 
